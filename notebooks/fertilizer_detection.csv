@@ -1,0 +1,1001 @@
+Crop,Soil Type,Nitrogen (N),Phosphorus (P),Potassium (K),Crop Growth Stage,Rainfall (mm),Temperature (°C),Irrigation Availability,Past Yield (tons/ha),Pest/Disease,Region,Fertilizer Recommendation
+maize,sandy,0.4625,0.816666667,0.833333333,Maturity,0.907407407,0.944444444,No,0.39341917,No,Madhya Pradesh,FYM
+wheat,red,0.4875,0.4,0.316666667,Vegetative,0.185185185,0.388888889,No,0.968526466,Yes,Andhra Pradesh,MOP
+wheat,loamy,0.2375,0.616666667,0.4,Flowering,0.548148148,0.833333333,Yes,0.630901288,No,Andhra Pradesh,MOP
+sugarcane,sandy,0.7625,0.95,0.366666667,Flowering,0.381481481,0.444444444,No,0.138769671,No,Punjab,FYM
+barley,loamy,0.7,0.6,0.266666667,Sowing,0.533333333,0.222222222,Yes,0.815450644,Yes,Maharashtra,Ammonium Sulphate
+millets,black,0.4,0.216666667,0.35,Harvest,0.781481481,0.5,Yes,0.659513591,No,Karnataka,FYM
+barley,loamy,0.4375,0.233333333,0.416666667,Sowing,0.596296296,0.277777778,Yes,0.30758226,No,West Bengal,Zinc Sulphate
+tobacco,loamy,0.5,0.85,0.85,Harvest,0.281481481,0.5,Yes,0.250357654,No,West Bengal,MOP
+barley,sandy,0.3375,0.3,0.016666667,Flowering,0.422222222,0.055555556,No,0.143061516,No,Uttar Pradesh,MOP
+paddy,clayey,0.2,0.45,0.383333333,Maturity,0.807407407,0.611111111,Yes,0.38769671,Yes,Uttar Pradesh,Zinc Sulphate
+maize,sandy,0.3,0.933333333,0.95,Maturity,0.651851852,0.111111111,No,0.636623748,Yes,Uttar Pradesh,Compost
+millets,red,0.45,0.316666667,0.5,Vegetative,0.033333333,0.333333333,Yes,0.052932761,Yes,Punjab,Ammonium Sulphate
+sugarcane,sandy,0.475,0.816666667,0.816666667,Vegetative,0.266666667,0.166666667,Yes,0.155937053,Yes,Rajasthan,Urea
+pulses,clayey,0.15,0.366666667,0.433333333,Vegetative,0.159259259,0.166666667,No,0.258941345,Yes,Rajasthan,NPK 20-20-20
+sugarcane,black,0.9625,0.616666667,0.433333333,Maturity,0.344444444,0.111111111,No,0.101573677,Yes,Punjab,Zinc Sulphate
+tobacco,loamy,0.525,0.916666667,0.866666667,Harvest,0.47037037,0.611111111,Yes,0.118741059,No,Punjab,Urea
+cotton,red,0.5375,0.983333333,0.333333333,Flowering,0.296296296,0.722222222,No,0.701001431,No,Uttar Pradesh,Compost
+cotton,black,0.3125,0.85,0.333333333,Vegetative,0.959259259,0.166666667,Yes,0.020028612,Yes,Punjab,Compost
+millets,sandy,0.425,0.333333333,0.5,Maturity,0.340740741,0.5,Yes,0.467811159,Yes,Punjab,Zinc Sulphate
+sugarcane,black,0.975,0.866666667,0.366666667,Maturity,0.381481481,0.944444444,No,0.967095851,No,Andhra Pradesh,FYM
+sugarcane,loamy,0.7375,0.566666667,0.6,Vegetative,0.881481481,0,No,0.978540773,Yes,Karnataka,Compost
+millets,black,0.4875,0.233333333,0.633333333,Vegetative,0.574074074,0.333333333,Yes,0.912732475,No,Rajasthan,NPK 20-20-20
+pulses,clayey,0.3125,0.416666667,0.466666667,Harvest,0.188888889,0.166666667,No,0.942775393,Yes,Andhra Pradesh,Ammonium Sulphate
+tobacco,clayey,0.8,0.433333333,0.733333333,Sowing,0.551851852,0.222222222,Yes,0.932761087,No,Gujarat,Ammonium Sulphate
+oil seeds,loamy,0.275,0.216666667,0.4,Sowing,0.551851852,0.777777778,Yes,0.055793991,No,Maharashtra,Zinc Sulphate
+millets,red,0.35,0.433333333,0.483333333,Flowering,0.714814815,0,No,0.509298999,No,Tamil Nadu,MOP
+millets,black,0.525,0.35,0.1,Harvest,0.196296296,0.222222222,No,0.357653791,Yes,West Bengal,MOP
+sugarcane,sandy,0.325,0.666666667,0.25,Sowing,0.296296296,0.111111111,No,0.532188841,No,Andhra Pradesh,Urea
+ground nuts,black,0.3375,0.466666667,0.25,Harvest,0.281481481,0.555555556,Yes,0.081545064,Yes,Uttar Pradesh,FYM
+ground nuts,loamy,0.2875,0.183333333,0.383333333,Vegetative,0.748148148,0.055555556,Yes,0.682403433,No,Punjab,Compost
+barley,sandy,0.65,0.666666667,0.25,Sowing,0.811111111,0,No,0.054363376,Yes,West Bengal,Ammonium Sulphate
+sugarcane,sandy,0.5875,0.683333333,0.933333333,Flowering,0.585185185,0.388888889,No,0.297567954,No,Rajasthan,Compost
+tobacco,red,0.3625,1,0.433333333,Flowering,0.877777778,0.944444444,No,0.934191702,No,West Bengal,Compost
+oil seeds,clayey,0.4625,0.183333333,0.083333333,Maturity,0.696296296,0.777777778,No,0.712446352,Yes,Madhya Pradesh,MOP
+tobacco,clayey,0.5125,0.533333333,0.616666667,Flowering,0.085185185,0.111111111,Yes,0.306151645,No,Tamil Nadu,DAP
+cotton,loamy,0.7875,0.566666667,0.65,Sowing,0.181481481,0.166666667,Yes,0.891273247,Yes,Maharashtra,Ammonium Sulphate
+millets,clayey,0.425,0.516666667,0.166666667,Sowing,0.988888889,0.333333333,Yes,0.526466381,Yes,West Bengal,MOP
+barley,loamy,0.75,0.666666667,0.133333333,Maturity,0.788888889,0.111111111,No,0.849785408,Yes,Andhra Pradesh,MOP
+tobacco,red,0.3,0.416666667,0.583333333,Maturity,0.233333333,0.666666667,No,0.170243205,No,Maharashtra,MOP
+millets,loamy,0.575,0.516666667,0.216666667,Vegetative,0.307407407,0.388888889,Yes,0.103004292,Yes,Punjab,Ammonium Sulphate
+sugarcane,loamy,0.9,0.983333333,0.55,Harvest,0.603703704,0.555555556,No,0.173104435,Yes,Karnataka,Ammonium Sulphate
+tobacco,red,0.8375,0.416666667,0.3,Vegetative,0.82962963,0.944444444,No,0.128755365,Yes,Karnataka,NPK 20-20-20
+pulses,black,0.4,0.433333333,0.033333333,Flowering,0.122222222,0.444444444,No,0.447782546,No,Rajasthan,MOP
+pulses,loamy,0.1375,0.266666667,0.4,Vegetative,0.296296296,0.388888889,Yes,0.639484979,No,West Bengal,Zinc Sulphate
+cotton,clayey,0.275,0.4,0.666666667,Harvest,0.974074074,0.166666667,Yes,0.464949928,No,Karnataka,Urea
+pulses,clayey,0.0875,0.333333333,0.45,Flowering,0.951851852,0.388888889,Yes,0.673819742,No,Madhya Pradesh,Urea
+tobacco,clayey,0.8875,0.666666667,0.633333333,Flowering,0.8,0.5,Yes,0.281831187,No,Punjab,FYM
+cotton,loamy,0.725,0.833333333,0.8,Maturity,0.592592593,0.611111111,Yes,0.062947067,Yes,Karnataka,Ammonium Sulphate
+tobacco,sandy,0.7125,0.816666667,0.9,Sowing,0.855555556,0.555555556,Yes,0.048640916,Yes,Karnataka,NPK 20-20-20
+oil seeds,loamy,0.075,0.266666667,0.05,Maturity,0.711111111,0.222222222,Yes,0.971387697,Yes,West Bengal,Urea
+paddy,red,0.7375,0.316666667,0.216666667,Sowing,0.681481481,0.222222222,Yes,0.595135908,Yes,Karnataka,DAP
+ground nuts,sandy,0.3125,0.033333333,0.45,Vegetative,0.577777778,0.111111111,Yes,0.885550787,No,West Bengal,DAP
+wheat,loamy,0.125,0.216666667,0.016666667,Harvest,0.5,1,No,0.898426323,Yes,Uttar Pradesh,MOP
+sugarcane,loamy,0.3875,0.866666667,1,Harvest,0.114814815,0.888888889,No,0.443490701,No,Tamil Nadu,NPK 20-20-20
+paddy,clayey,0.375,0.316666667,0.183333333,Maturity,0.503703704,0.888888889,Yes,0.250357654,Yes,West Bengal,DAP
+oil seeds,clayey,0,0.266666667,0.166666667,Flowering,0.3,0.333333333,No,0.081545064,Yes,West Bengal,Urea
+oil seeds,black,0.2375,0.483333333,0.166666667,Vegetative,0.237037037,0.5,No,0.596566524,No,Gujarat,MOP
+tobacco,red,0.825,0.816666667,0.5,Sowing,0.87037037,0.722222222,Yes,0.224606581,Yes,Uttar Pradesh,Compost
+tobacco,loamy,0.3875,0.583333333,0.233333333,Flowering,0.188888889,0.611111111,No,0.699570815,No,Madhya Pradesh,Ammonium Sulphate
+ground nuts,red,0.15,0.366666667,0.15,Harvest,0.018518519,0.166666667,Yes,0.536480687,Yes,Maharashtra,MOP
+paddy,red,0.6,0.333333333,0.25,Sowing,0.388888889,0.055555556,Yes,0.070100143,No,Gujarat,Urea
+ground nuts,clayey,0.275,0.25,0.316666667,Vegetative,0.37037037,0,No,0.17167382,Yes,Madhya Pradesh,Urea
+wheat,loamy,0.3,0.2,0.666666667,Flowering,0.381481481,0.277777778,No,0.573676681,Yes,Maharashtra,Urea
+tobacco,black,0.5625,0.383333333,0.683333333,Maturity,0.414814815,0.5,No,0.125894134,Yes,Andhra Pradesh,MOP
+oil seeds,loamy,0.4125,0.083333333,0.383333333,Harvest,0.018518519,0.611111111,Yes,0.018597997,No,West Bengal,DAP
+paddy,red,0.725,0.616666667,0.283333333,Maturity,0.337037037,0.444444444,No,0.928469242,Yes,Gujarat,Urea
+paddy,sandy,0.4,0.583333333,0.166666667,Flowering,0.444444444,0.111111111,No,0.603719599,No,Uttar Pradesh,FYM
+barley,clayey,0.2,0.383333333,0.216666667,Sowing,0.466666667,0,No,0.961373391,No,West Bengal,MOP
+wheat,loamy,0.375,0.233333333,0.016666667,Flowering,0.007407407,0.444444444,No,0.682403433,Yes,Madhya Pradesh,MOP
+wheat,clayey,0.175,0.183333333,0.65,Flowering,0.540740741,0,No,0.543633763,Yes,Gujarat,Urea
+oil seeds,loamy,0.025,0.15,0.5,Harvest,0.385185185,0.777777778,No,0.909871245,No,Madhya Pradesh,Urea
+millets,black,0.3,0.166666667,0.066666667,Vegetative,0.277777778,0.055555556,Yes,0.964234621,No,Tamil Nadu,MOP
+cotton,sandy,0.675,0.55,1,Vegetative,0.033333333,0.222222222,Yes,0.656652361,No,West Bengal,NPK 20-20-20
+tobacco,red,0.6375,0.916666667,0.216666667,Sowing,0.474074074,0.666666667,Yes,0.749642346,Yes,Rajasthan,Zinc Sulphate
+millets,red,0.75,0.65,0.666666667,Maturity,0.4,0.944444444,Yes,0.124463519,No,Uttar Pradesh,Ammonium Sulphate
+barley,loamy,0.4625,0.333333333,0.566666667,Vegetative,0.781481481,0,Yes,0.224606581,Yes,Uttar Pradesh,Compost
+tobacco,sandy,0.6875,0.4,0.816666667,Harvest,0.340740741,0.777777778,Yes,0.376251788,Yes,Rajasthan,DAP
+paddy,loamy,0.6,0.516666667,0.616666667,Maturity,0.185185185,0.722222222,No,0.507868383,No,Uttar Pradesh,Urea
+pulses,clayey,0.375,0.3,0.233333333,Sowing,0.9,0.055555556,Yes,0.183118741,Yes,Madhya Pradesh,FYM
+paddy,sandy,0.675,0.55,0.366666667,Maturity,0.218518519,1,No,0.941344778,No,Karnataka,DAP
+millets,clayey,0.4375,0.566666667,0.65,Harvest,0.377777778,0.055555556,Yes,0.82260372,No,Punjab,Compost
+wheat,red,0.75,0.483333333,0.65,Flowering,0.877777778,0.055555556,No,0.492131617,Yes,Tamil Nadu,Compost
+oil seeds,black,0.0625,0.416666667,0.45,Harvest,0.096296296,0.611111111,No,0.399141631,Yes,Karnataka,Urea
+oil seeds,clayey,0.175,0.433333333,0.2,Sowing,0.777777778,1,Yes,0.918454936,No,Tamil Nadu,Zinc Sulphate
+millets,clayey,0.575,0.183333333,0.066666667,Sowing,0.359259259,0.388888889,No,0.763948498,Yes,Karnataka,MOP
+pulses,clayey,0,0.05,0.3,Maturity,0.114814815,0.277777778,Yes,0.928469242,Yes,Tamil Nadu,Urea
+maize,red,0.25,0.4,0.233333333,Flowering,0.081481481,0,Yes,0.194563662,No,Rajasthan,MOP
+paddy,loamy,0.3,0.333333333,0.5,Vegetative,0.718518519,0.555555556,No,0.123032904,Yes,Gujarat,Urea
+pulses,clayey,0.1875,0.3,0.25,Vegetative,0.477777778,0.222222222,Yes,0.682403433,No,Uttar Pradesh,Ammonium Sulphate
+oil seeds,clayey,0.2875,0.266666667,0.366666667,Sowing,0.174074074,0.388888889,Yes,0.886981402,Yes,Punjab,DAP
+tobacco,loamy,0.4375,0.8,0.183333333,Flowering,0.42962963,0.111111111,Yes,0.690987124,Yes,Rajasthan,Ammonium Sulphate
+ground nuts,clayey,0.4125,0.316666667,0.116666667,Flowering,0.596296296,0.722222222,Yes,0.061516452,No,Tamil Nadu,MOP
+oil seeds,red,0.375,0.15,0.316666667,Vegetative,0.996296296,0.277777778,Yes,0.816881259,Yes,Rajasthan,DAP
+barley,black,0.525,0.483333333,0.616666667,Sowing,0.648148148,1,Yes,0.447782546,No,Gujarat,Zinc Sulphate
+maize,clayey,0.6125,0.416666667,0.183333333,Harvest,0.922222222,0.833333333,No,0.022889843,No,Karnataka,NPK 20-20-20
+paddy,sandy,0.75,0.233333333,0.133333333,Maturity,0.662962963,0.5,Yes,0.733905579,Yes,Andhra Pradesh,MOP
+tobacco,sandy,0.7375,0.733333333,0.716666667,Vegetative,0.662962963,0.777777778,Yes,0.805436338,Yes,Karnataka,NPK 20-20-20
+oil seeds,black,0.175,0.333333333,0.016666667,Sowing,0.062962963,0.888888889,No,0.945636624,Yes,Rajasthan,MOP
+millets,sandy,0.525,0.4,0.233333333,Harvest,0.944444444,0.388888889,Yes,0.410586552,No,Tamil Nadu,Urea
+wheat,sandy,0.275,0.316666667,0.416666667,Vegetative,0.488888889,0.666666667,Yes,0.788268956,Yes,Andhra Pradesh,Zinc Sulphate
+maize,sandy,0.975,0.333333333,0.183333333,Flowering,0.896296296,0,Yes,0.915593705,No,Madhya Pradesh,DAP
+paddy,black,0.6,0.5,0.283333333,Maturity,0.796296296,0.5,Yes,0.018597997,Yes,Gujarat,MOP
+maize,loamy,1,0.416666667,0.35,Flowering,0.177777778,0.055555556,No,0.201716738,No,Tamil Nadu,DAP
+wheat,loamy,0.55,0.65,0.466666667,Maturity,0.551851852,0.555555556,No,0.43776824,No,Rajasthan,MOP
+sugarcane,clayey,0.7875,0.566666667,0.45,Maturity,0.881481481,0,Yes,0.642346209,Yes,Rajasthan,NPK 20-20-20
+tobacco,sandy,0.3875,0.733333333,0.433333333,Flowering,0.103703704,0.166666667,No,0.057224607,Yes,Gujarat,FYM
+sugarcane,black,0.4625,0.983333333,0.683333333,Harvest,0.518518519,0.944444444,No,0.941344778,Yes,Madhya Pradesh,FYM
+cotton,clayey,0.825,0.733333333,0.816666667,Harvest,0.355555556,0.722222222,No,0.763948498,No,Andhra Pradesh,Compost
+barley,sandy,0.6625,0.5,0.4,Vegetative,0.344444444,0.166666667,No,0.603719599,Yes,Punjab,NPK 20-20-20
+tobacco,loamy,0.9375,0.916666667,0.716666667,Harvest,0.848148148,0.277777778,Yes,0.025751073,No,Rajasthan,NPK 20-20-20
+tobacco,loamy,0.775,0.783333333,0.283333333,Sowing,0.466666667,0.333333333,Yes,0.539341917,No,Punjab,NPK 20-20-20
+cotton,loamy,0.35,0.866666667,0.2,Maturity,0.474074074,0.222222222,No,0.377682403,Yes,Uttar Pradesh,DAP
+sugarcane,black,0.75,0.416666667,0.566666667,Vegetative,0.244444444,0.166666667,No,0.589413448,No,Punjab,Ammonium Sulphate
+tobacco,black,0.4,0.95,0.216666667,Vegetative,0.366666667,0.055555556,No,0.945636624,No,Uttar Pradesh,FYM
+pulses,black,0.2125,0.05,0.466666667,Harvest,0.666666667,0.611111111,No,0.3490701,Yes,West Bengal,DAP
+sugarcane,red,0.65,0.866666667,0.333333333,Vegetative,0.607407407,0.722222222,Yes,0.885550787,Yes,West Bengal,Urea
+tobacco,loamy,0.525,0.516666667,0.983333333,Harvest,0.807407407,0.166666667,No,0.690987124,Yes,Punjab,Compost
+barley,sandy,0.5125,0.25,0.216666667,Maturity,0.374074074,0.055555556,No,0.918454936,No,Andhra Pradesh,Urea
+tobacco,black,0.925,0.616666667,0.733333333,Flowering,0.451851852,0.277777778,Yes,0.642346209,No,Karnataka,Compost
+oil seeds,loamy,0.5,0.183333333,0.133333333,Harvest,0.47037037,0,Yes,0.689556509,No,Maharashtra,MOP
+pulses,loamy,0.0125,0.033333333,0.166666667,Maturity,0.151851852,0.333333333,No,0.539341917,No,Rajasthan,Urea
+ground nuts,black,0.2125,0.416666667,0.483333333,Flowering,0.703703704,0.722222222,No,0.949928469,Yes,Andhra Pradesh,Compost
+tobacco,sandy,0.4625,0.666666667,0.383333333,Maturity,0.881481481,1,No,0.87267525,Yes,Madhya Pradesh,Ammonium Sulphate
+cotton,clayey,0.9125,0.35,0.95,Vegetative,0.922222222,0.611111111,Yes,0.062947067,No,Gujarat,DAP
+sugarcane,clayey,0.825,0.716666667,0.583333333,Sowing,0.859259259,0.722222222,No,0.718168813,No,Uttar Pradesh,Compost
+tobacco,clayey,0.625,0.566666667,0.766666667,Flowering,0.214814815,1,Yes,0.51788269,No,Andhra Pradesh,Ammonium Sulphate
+millets,loamy,0.5125,0.316666667,0.65,Flowering,0.47037037,0.166666667,Yes,0,No,Madhya Pradesh,Zinc Sulphate
+millets,loamy,0.4375,0.183333333,0.2,Flowering,0.67037037,0.166666667,Yes,0.34620887,No,West Bengal,MOP
+cotton,black,0.45,0.633333333,0.7,Flowering,0.318518519,0.611111111,Yes,0.789699571,Yes,Maharashtra,Urea
+pulses,sandy,0.45,0.283333333,0.316666667,Sowing,0.159259259,0.833333333,Yes,0.82260372,No,Punjab,Zinc Sulphate
+oil seeds,sandy,0.2,0.133333333,0.316666667,Maturity,0.748148148,0.277777778,Yes,0.701001431,Yes,Maharashtra,DAP
+maize,black,0.6,0.366666667,0.383333333,Sowing,0.940740741,0.333333333,No,0.141630901,No,Rajasthan,DAP
+ground nuts,clayey,0.35,0.233333333,0.133333333,Flowering,0.351851852,0.833333333,Yes,0.768240343,No,Uttar Pradesh,MOP
+pulses,black,0.125,0.483333333,0.25,Harvest,0.02962963,0.388888889,Yes,0.99713877,No,Rajasthan,NPK 20-20-20
+barley,clayey,0.7375,0.533333333,0.4,Flowering,0.377777778,0.388888889,Yes,0.826895565,No,Gujarat,Compost
+tobacco,loamy,0.75,0.633333333,0.266666667,Maturity,0.566666667,0.055555556,No,0.663805436,No,Andhra Pradesh,FYM
+maize,black,0.475,0.983333333,0.633333333,Sowing,0.344444444,0.888888889,Yes,0.360515021,No,Punjab,MOP
+wheat,sandy,0.3375,0.416666667,0.05,Sowing,0.174074074,0.833333333,No,0.901287554,No,Andhra Pradesh,MOP
+sugarcane,loamy,0.4875,0.533333333,0.516666667,Maturity,0.251851852,0.944444444,Yes,0.197424893,No,Uttar Pradesh,Compost
+tobacco,red,1,0.733333333,0.683333333,Sowing,0.640740741,0.722222222,Yes,0.007153076,No,Karnataka,FYM
+paddy,clayey,0.4625,0.166666667,0.366666667,Flowering,0.088888889,0.888888889,Yes,0.563662375,Yes,Karnataka,FYM
+paddy,clayey,0.525,0.666666667,0.15,Maturity,0.218518519,0.833333333,Yes,0.330472103,Yes,Uttar Pradesh,MOP
+paddy,clayey,0.275,0.483333333,0.616666667,Sowing,0.351851852,0.722222222,Yes,0.944206009,Yes,West Bengal,Ammonium Sulphate
+wheat,clayey,0.1875,0.55,0.016666667,Sowing,0.766666667,0.888888889,No,0.327610873,Yes,Uttar Pradesh,MOP
+oil seeds,loamy,0.225,0.216666667,0.066666667,Maturity,0.103703704,0.444444444,No,0.108726753,No,Karnataka,MOP
+ground nuts,clayey,0.2375,0.15,0.183333333,Maturity,0.448148148,0.833333333,Yes,0.394849785,No,Maharashtra,DAP
+maize,red,0.925,0.45,0.95,Vegetative,0.618518519,0.444444444,No,0.194563662,No,West Bengal,DAP
+paddy,clayey,0.4,0.333333333,0.55,Harvest,0.133333333,0.111111111,No,0.38769671,Yes,Punjab,Compost
+ground nuts,red,0.1,0.466666667,0.25,Harvest,0.455555556,0.166666667,No,0.39055794,No,Rajasthan,Urea
+oil seeds,loamy,0.375,0.166666667,0.1,Harvest,0.792592593,0.666666667,Yes,0.553648069,Yes,Maharashtra,MOP
+paddy,clayey,0.3625,0.3,0.216666667,Maturity,0.459259259,0.277777778,No,0.286123033,No,Tamil Nadu,MOP
+tobacco,black,0.8125,0.5,0.533333333,Vegetative,0.537037037,0.5,Yes,0.995708155,No,Andhra Pradesh,MOP
+ground nuts,sandy,0.2875,0.066666667,0.416666667,Harvest,0.655555556,0.611111111,Yes,0.04148784,Yes,Punjab,DAP
+maize,loamy,0.2625,0.383333333,0.516666667,Vegetative,0.725925926,0.333333333,No,0.876967096,Yes,Madhya Pradesh,FYM
+barley,sandy,0.5375,0.616666667,0.333333333,Vegetative,0.214814815,0.333333333,Yes,0.595135908,Yes,Uttar Pradesh,Ammonium Sulphate
+cotton,sandy,0.425,0.65,0.616666667,Sowing,0.366666667,0.833333333,Yes,0.306151645,No,Andhra Pradesh,NPK 20-20-20
+wheat,clayey,0.2,0.383333333,0.033333333,Vegetative,0.82962963,0.166666667,Yes,0.015736767,No,Rajasthan,MOP
+tobacco,red,0.6125,0.65,0.416666667,Harvest,0.792592593,0.944444444,No,0.443490701,Yes,Uttar Pradesh,Compost
+cotton,black,0.8625,0.35,0.883333333,Maturity,0.177777778,0.722222222,Yes,0.350500715,No,Madhya Pradesh,Compost
+oil seeds,sandy,0.1375,0.133333333,0.266666667,Maturity,0.362962963,0.277777778,No,0.876967096,No,Madhya Pradesh,DAP
+millets,black,0.75,0.666666667,0.433333333,Harvest,0.3,0.944444444,Yes,0.965665236,No,Tamil Nadu,Ammonium Sulphate
+paddy,loamy,0.3875,0.25,0.183333333,Sowing,0.037037037,0.277777778,No,0.512160229,Yes,Uttar Pradesh,NPK 20-20-20
+sugarcane,loamy,0.6,0.533333333,0.883333333,Flowering,0.644444444,0.666666667,No,0.08297568,No,Gujarat,Ammonium Sulphate
+oil seeds,loamy,0.225,0.383333333,0.416666667,Sowing,0.092592593,0.611111111,Yes,0.193133047,No,Uttar Pradesh,Ammonium Sulphate
+paddy,loamy,0.1625,0.533333333,0.416666667,Flowering,0.451851852,0.722222222,No,0.404864092,No,Punjab,MOP
+ground nuts,loamy,0,0.233333333,0.2,Harvest,0.777777778,0.333333333,No,0.61230329,No,Gujarat,Urea
+ground nuts,loamy,0.3875,0.1,0.283333333,Flowering,0.411111111,0.611111111,No,0.743919886,Yes,Andhra Pradesh,DAP
+millets,sandy,0.7375,0.466666667,0.166666667,Flowering,0.4,0.5,No,0.429184549,Yes,Uttar Pradesh,Urea
+ground nuts,clayey,0.0125,0.166666667,0.05,Harvest,0.651851852,0.333333333,No,0.273247496,No,Gujarat,Urea
+wheat,red,0.6875,0.483333333,0.5,Harvest,0.922222222,0.888888889,Yes,0.464949928,Yes,Gujarat,MOP
+millets,black,0.725,0.533333333,0.1,Vegetative,0.092592593,0.055555556,No,0.396280401,Yes,Tamil Nadu,MOP
+sugarcane,clayey,0.325,0.35,0.883333333,Vegetative,0.4,0.777777778,No,0.931330472,No,Maharashtra,FYM
+pulses,sandy,0.4,0.333333333,0.45,Sowing,1,0.5,Yes,0.397711016,No,Rajasthan,Compost
+oil seeds,red,0.05,0.266666667,0.183333333,Maturity,0.903703704,0.722222222,No,0.729613734,Yes,Rajasthan,Urea
+ground nuts,clayey,0.2,0.383333333,0.166666667,Sowing,0.340740741,0.555555556,No,0.389127325,No,Tamil Nadu,Urea
+wheat,black,0.3,0.233333333,0.283333333,Sowing,0.174074074,0.055555556,Yes,0.666666667,Yes,West Bengal,Compost
+paddy,loamy,0.6125,0.3,0.033333333,Sowing,0.307407407,0.444444444,Yes,0.447782546,Yes,Uttar Pradesh,MOP
+maize,clayey,0.3375,0.75,0.566666667,Vegetative,0.940740741,0.722222222,Yes,0.625178827,Yes,Andhra Pradesh,MOP
+wheat,black,0.175,0.5,0.3,Flowering,0.3,0.222222222,No,0.310443491,No,Rajasthan,FYM
+sugarcane,red,0.4375,0.766666667,0.95,Flowering,0.644444444,0.944444444,No,0.91702432,No,Maharashtra,Ammonium Sulphate
+wheat,black,0.2375,0.6,0.133333333,Harvest,0.466666667,0.333333333,No,0.456366237,Yes,Uttar Pradesh,MOP
+wheat,black,0.7125,0.483333333,0.266666667,Maturity,0.188888889,0.222222222,No,0.814020029,No,West Bengal,MOP
+maize,clayey,0.5125,0.55,0.833333333,Sowing,0.244444444,0.666666667,No,0.416309013,Yes,Punjab,FYM
+oil seeds,sandy,0.175,0.05,0.45,Harvest,0.825925926,0.777777778,Yes,0.549356223,No,Gujarat,DAP
+sugarcane,clayey,0.6625,0.5,0.466666667,Maturity,0.211111111,0.111111111,Yes,0.842632332,No,West Bengal,Zinc Sulphate
+cotton,red,0.7125,0.383333333,0.75,Vegetative,0.622222222,0.666666667,Yes,0.526466381,Yes,West Bengal,FYM
+oil seeds,red,0,0.066666667,0.366666667,Harvest,0.548148148,0.666666667,Yes,0.057224607,Yes,Uttar Pradesh,Urea
+oil seeds,clayey,0.1625,0.233333333,0.283333333,Maturity,0.162962963,0.777777778,Yes,0.131616595,No,Maharashtra,NPK 20-20-20
+cotton,red,0.95,0.4,0.583333333,Harvest,0.292592593,0.277777778,Yes,0.73676681,No,Karnataka,Urea
+sugarcane,black,0.425,0.65,0.266666667,Vegetative,0.444444444,0.666666667,Yes,0.266094421,No,Punjab,FYM
+tobacco,sandy,0.9375,0.466666667,0.483333333,Flowering,0.511111111,0.055555556,Yes,0.115879828,No,Rajasthan,Zinc Sulphate
+paddy,red,0.2375,0.216666667,0.116666667,Sowing,0.674074074,0.666666667,Yes,0.898426323,No,Rajasthan,MOP
+paddy,red,0.7,0.366666667,0.533333333,Vegetative,0.018518519,0.944444444,Yes,0.82832618,No,Tamil Nadu,NPK 20-20-20
+tobacco,black,0.5375,0.8,0.166666667,Sowing,0.837037037,0.444444444,Yes,0.011444921,No,Punjab,Urea
+sugarcane,red,0.85,0.333333333,0.8,Harvest,0.962962963,0.444444444,Yes,0.715307582,Yes,Rajasthan,NPK 20-20-20
+pulses,sandy,0.025,0.45,0.366666667,Harvest,0.681481481,0.388888889,Yes,0.360515021,Yes,Punjab,Urea
+tobacco,sandy,0.3875,0.533333333,0.8,Flowering,0.114814815,0.944444444,Yes,0.293276109,No,Punjab,Zinc Sulphate
+pulses,sandy,0.375,0.133333333,0.033333333,Maturity,0.3,0.833333333,Yes,0.181688126,Yes,West Bengal,DAP
+barley,black,0.55,0.633333333,0.133333333,Vegetative,0.192592593,0.444444444,No,0.552217454,No,Tamil Nadu,MOP
+wheat,sandy,0.65,0.2,0.4,Flowering,0.492592593,0.888888889,No,0.13304721,Yes,Rajasthan,NPK 20-20-20
+wheat,sandy,0.275,0.2,0.033333333,Sowing,0.592592593,0.722222222,Yes,0.572246066,No,Uttar Pradesh,MOP
+barley,clayey,0.45,0.666666667,0.45,Maturity,0.237037037,0.111111111,No,0.583690987,No,Gujarat,Ammonium Sulphate
+ground nuts,sandy,0.4625,0.216666667,0.25,Vegetative,0.951851852,0.333333333,No,0.752503577,Yes,Rajasthan,NPK 20-20-20
+maize,sandy,0.3625,0.916666667,0.533333333,Harvest,0.733333333,0.444444444,Yes,0.316165951,No,Andhra Pradesh,Compost
+ground nuts,red,0.25,0.166666667,0.4,Harvest,0.959259259,0,Yes,0.773962804,Yes,Andhra Pradesh,DAP
+sugarcane,red,0.7875,1,0.4,Flowering,0.459259259,0.222222222,Yes,0.17739628,No,Uttar Pradesh,MOP
+wheat,clayey,0.4125,0.35,0.033333333,Maturity,0.525925926,0.944444444,No,0.170243205,Yes,Tamil Nadu,MOP
+wheat,red,0.5875,0.316666667,0.066666667,Vegetative,0.444444444,0.722222222,No,0.908440629,No,Punjab,MOP
+wheat,red,0.1875,0.25,0.416666667,Sowing,0.081481481,0.166666667,Yes,0.881258941,Yes,Punjab,Urea
+maize,red,0.625,0.9,0.65,Maturity,0.055555556,0.055555556,No,0.635193133,No,Rajasthan,MOP
+maize,sandy,0.3625,0.983333333,0.283333333,Sowing,0.903703704,0.666666667,No,0.918454936,No,Karnataka,Compost
+millets,sandy,0.3125,0.233333333,0.066666667,Vegetative,0.47037037,0.833333333,No,0.809728183,Yes,Uttar Pradesh,MOP
+barley,loamy,0.6625,0.433333333,0.25,Maturity,0.6,0.555555556,No,0.084406295,Yes,Madhya Pradesh,Compost
+wheat,red,0.5875,0.266666667,0.116666667,Maturity,0.959259259,0.722222222,Yes,0.964234621,Yes,Maharashtra,MOP
+tobacco,red,0.3875,0.55,0.433333333,Flowering,0.781481481,0.333333333,Yes,0.826895565,Yes,Maharashtra,Ammonium Sulphate
+millets,red,0.5375,0.45,0.483333333,Vegetative,0.244444444,0.666666667,Yes,0.280400572,Yes,Karnataka,NPK 20-20-20
+paddy,loamy,0.3875,0.433333333,0.666666667,Flowering,0.52962963,0.111111111,Yes,0.024320458,Yes,Andhra Pradesh,FYM
+maize,sandy,0.8625,0.966666667,0.333333333,Harvest,0.848148148,0.722222222,Yes,0.038626609,No,Uttar Pradesh,Zinc Sulphate
+sugarcane,loamy,0.9,0.616666667,0.65,Sowing,0.42962963,0.833333333,Yes,0.376251788,No,Madhya Pradesh,Compost
+wheat,sandy,0.1875,0.65,0.616666667,Harvest,0.555555556,0.5,Yes,0.652360515,No,Karnataka,FYM
+sugarcane,loamy,0.5,0.7,0.7,Flowering,0.574074074,0.722222222,Yes,0.994277539,Yes,Maharashtra,Ammonium Sulphate
+cotton,loamy,0.7,0.35,0.866666667,Flowering,0.181481481,0.388888889,Yes,0.379113019,No,Maharashtra,MOP
+paddy,clayey,0.6,0.55,0.066666667,Maturity,0.281481481,0.722222222,No,0.902718169,No,Maharashtra,MOP
+ground nuts,black,0.425,0.466666667,0.383333333,Maturity,0.677777778,0.333333333,No,0.625178827,Yes,West Bengal,Zinc Sulphate
+ground nuts,sandy,0.1125,0.383333333,0.433333333,Maturity,0.262962963,0.611111111,No,0.175965665,No,Maharashtra,Urea
+tobacco,red,0.7,0.483333333,0.666666667,Sowing,0.640740741,0.888888889,Yes,0.633762518,Yes,Gujarat,Urea
+cotton,clayey,0.9125,0.8,0.65,Maturity,0.792592593,0.277777778,No,0.353361946,Yes,Rajasthan,Urea
+maize,loamy,0.55,0.616666667,0.766666667,Maturity,0.17037037,0.777777778,Yes,0.204577969,No,Maharashtra,Urea
+cotton,sandy,0.8625,0.916666667,0.4,Maturity,0.22962963,0.722222222,No,0.020028612,Yes,West Bengal,NPK 20-20-20
+wheat,red,0.6375,0.316666667,0.216666667,Sowing,0.292592593,0.333333333,No,0.224606581,No,Andhra Pradesh,Compost
+ground nuts,loamy,0.4625,0.45,0.316666667,Maturity,0.137037037,1,No,0.135908441,No,Rajasthan,MOP
+cotton,clayey,0.85,0.883333333,0.866666667,Maturity,0.385185185,0.444444444,No,0.743919886,Yes,Uttar Pradesh,DAP
+tobacco,clayey,0.9875,0.666666667,0.783333333,Vegetative,0.925925926,0.5,Yes,0.937052933,No,West Bengal,DAP
+millets,black,0.5125,0.283333333,0.183333333,Flowering,0.67037037,0.888888889,No,0.194563662,No,Tamil Nadu,Zinc Sulphate
+wheat,clayey,0.525,0.283333333,0.6,Harvest,0.577777778,0.944444444,No,0.708154506,No,Madhya Pradesh,Urea
+paddy,sandy,0.5875,0.483333333,0.383333333,Harvest,0.948148148,0.166666667,Yes,0.988555079,No,Tamil Nadu,Urea
+barley,loamy,0.7,0.366666667,0.1,Flowering,0.562962963,1,Yes,0.43490701,No,Maharashtra,MOP
+oil seeds,black,0.2125,0.2,0.1,Flowering,0.340740741,0.111111111,No,0.124463519,Yes,Karnataka,MOP
+oil seeds,sandy,0.275,0.1,0.4,Maturity,0.481481481,0.388888889,No,0.563662375,No,Maharashtra,DAP
+millets,clayey,0.65,0.233333333,0.316666667,Vegetative,0.933333333,0.5,No,0.608011445,No,Madhya Pradesh,Urea
+tobacco,black,0.4125,0.666666667,0.25,Harvest,0.862962963,0.833333333,Yes,0.364806867,No,Gujarat,Compost
+maize,loamy,0.375,0.35,0.616666667,Harvest,0.185185185,0.888888889,No,0.261802575,Yes,Tamil Nadu,FYM
+oil seeds,sandy,0.3875,0.216666667,0.366666667,Harvest,0.985185185,0.5,No,0.493562232,No,Punjab,DAP
+wheat,sandy,0.125,0.5,0.616666667,Harvest,0.914814815,0.777777778,No,0.741058655,No,Maharashtra,Ammonium Sulphate
+barley,black,0.15,0.183333333,0.55,Flowering,0.87037037,0.888888889,No,0.806866953,Yes,Madhya Pradesh,NPK 20-20-20
+millets,black,0.225,0.366666667,0.083333333,Sowing,0.588888889,0.111111111,No,0.789699571,Yes,Rajasthan,MOP
+oil seeds,black,0.325,0.35,0.116666667,Flowering,0.181481481,0.722222222,No,0.072961373,No,Gujarat,MOP
+cotton,clayey,0.5625,0.75,0.2,Harvest,0.085185185,0.5,No,0.111587983,Yes,Punjab,FYM
+millets,loamy,0.35,0.616666667,0.6,Vegetative,0.825925926,0.888888889,Yes,0.642346209,Yes,Rajasthan,MOP
+barley,sandy,0.4625,0.466666667,0.45,Maturity,0.603703704,0.166666667,No,0.237482117,No,Madhya Pradesh,NPK 20-20-20
+sugarcane,clayey,0.7125,0.8,0.183333333,Vegetative,0.485185185,0.055555556,Yes,0.417739628,Yes,Karnataka,Urea
+tobacco,sandy,0.375,0.616666667,0.4,Sowing,0.718518519,0.166666667,No,0.226037196,Yes,Andhra Pradesh,FYM
+millets,red,0.3625,0.533333333,0.666666667,Maturity,0.803703704,0,No,0.722460658,Yes,Andhra Pradesh,MOP
+tobacco,loamy,0.95,0.366666667,0.95,Flowering,0.955555556,1,No,0.563662375,No,Karnataka,Ammonium Sulphate
+tobacco,black,0.45,0.666666667,0.533333333,Maturity,0.525925926,0.444444444,Yes,0.985693848,No,Madhya Pradesh,Ammonium Sulphate
+barley,sandy,0.4,0.483333333,0.5,Harvest,1,0.888888889,Yes,0.755364807,Yes,Tamil Nadu,Urea
+cotton,clayey,0.9,0.566666667,0.833333333,Maturity,0.274074074,0,No,0.042918455,No,Andhra Pradesh,Urea
+tobacco,red,0.2875,0.433333333,0.883333333,Flowering,0.52962963,0.555555556,No,0.513590844,No,Andhra Pradesh,NPK 20-20-20
+tobacco,loamy,0.6625,0.633333333,0.583333333,Vegetative,0.733333333,0.166666667,No,0.168812589,No,Punjab,Compost
+cotton,clayey,0.5125,0.833333333,0.366666667,Flowering,0.962962963,0.333333333,Yes,0.494992847,Yes,West Bengal,Zinc Sulphate
+wheat,sandy,0.225,0.4,0.216666667,Vegetative,0.655555556,0.833333333,Yes,0.515021459,No,Karnataka,NPK 20-20-20
+barley,red,0.3,0.533333333,0.416666667,Vegetative,0.462962963,0.333333333,No,0.658082976,Yes,Gujarat,FYM
+tobacco,sandy,0.4625,1,0.45,Harvest,0.048148148,0.444444444,No,0.067238913,No,Punjab,Compost
+paddy,clayey,0.6875,0.2,0.633333333,Flowering,0.688888889,0.222222222,No,0.792560801,Yes,Madhya Pradesh,Compost
+ground nuts,sandy,0.05,0.466666667,0.066666667,Harvest,0.125925926,0.555555556,Yes,0.871244635,Yes,Karnataka,Urea
+tobacco,black,0.85,0.333333333,0.666666667,Harvest,0.596296296,0.444444444,No,0.386266094,No,Tamil Nadu,FYM
+sugarcane,red,0.3875,0.5,0.166666667,Flowering,0.996296296,0.444444444,No,0.371959943,No,Uttar Pradesh,NPK 20-20-20
+barley,black,0.45,0.333333333,0.45,Sowing,0.011111111,0.944444444,No,0.074391989,No,Uttar Pradesh,Urea
+wheat,black,0.6625,0.6,0.6,Sowing,0.933333333,0.944444444,Yes,0.743919886,Yes,Gujarat,Compost
+cotton,black,0.45,0.7,0.316666667,Vegetative,0.518518519,0,Yes,0.560801144,Yes,Andhra Pradesh,Ammonium Sulphate
+cotton,sandy,0.775,0.833333333,0.4,Vegetative,0.725925926,0.555555556,No,0.389127325,Yes,Madhya Pradesh,DAP
+barley,red,0.625,0.2,0.083333333,Flowering,0.948148148,0.666666667,Yes,0.050071531,No,Madhya Pradesh,MOP
+millets,loamy,0.3875,0.5,0.166666667,Sowing,0.82962963,0.777777778,No,0.590844063,No,Karnataka,DAP
+barley,sandy,0.2625,0.5,0,Vegetative,0.837037037,0.944444444,Yes,0.635193133,Yes,Gujarat,MOP
+maize,clayey,0.7,0.816666667,0.35,Harvest,0.851851852,0.055555556,Yes,0.652360515,No,Tamil Nadu,Compost
+cotton,loamy,0.7,0.933333333,0.916666667,Vegetative,0.77037037,0.277777778,Yes,0.856938484,No,Punjab,DAP
+tobacco,sandy,0.6875,0.933333333,0.95,Sowing,0.462962963,0.833333333,No,0.676680973,Yes,Tamil Nadu,Compost
+oil seeds,loamy,0.0125,0.116666667,0.15,Vegetative,0.403703704,0.722222222,Yes,0.924177396,No,Punjab,Urea
+millets,black,0.375,0.583333333,0.083333333,Vegetative,0.481481481,0.666666667,Yes,0.497854077,Yes,Maharashtra,MOP
+paddy,red,0.5125,0.6,0.233333333,Vegetative,0.966666667,0.388888889,No,0.908440629,No,Rajasthan,DAP
+maize,loamy,0.575,0.85,0.983333333,Maturity,0.322222222,0,No,0.320457797,No,Madhya Pradesh,MOP
+wheat,red,0.6,0.216666667,0.366666667,Harvest,0.166666667,0.333333333,Yes,0.197424893,Yes,Karnataka,FYM
+oil seeds,red,0.1375,0,0.116666667,Harvest,0.062962963,0.444444444,Yes,0.802575107,No,Maharashtra,DAP
+wheat,loamy,0.225,0.466666667,0.45,Maturity,0.096296296,0.222222222,No,0.768240343,No,Madhya Pradesh,Zinc Sulphate
+cotton,clayey,0.95,0.383333333,0.95,Vegetative,0.588888889,0.222222222,Yes,0.416309013,Yes,Rajasthan,Compost
+cotton,loamy,0.3125,0.983333333,0.433333333,Sowing,0.87037037,0.055555556,No,0.341917024,No,Rajasthan,Zinc Sulphate
+maize,red,0.2875,0.983333333,0.516666667,Maturity,0.144444444,0.055555556,Yes,0.929899857,No,Gujarat,Zinc Sulphate
+oil seeds,black,0.275,0.183333333,0.216666667,Maturity,0.818518519,0.111111111,Yes,0.175965665,No,Punjab,FYM
+maize,sandy,0.8375,0.6,0.95,Vegetative,0.844444444,0.333333333,Yes,0.974248927,Yes,Punjab,NPK 20-20-20
+pulses,black,0.3125,0.366666667,0.2,Harvest,0.874074074,0.833333333,Yes,0.635193133,Yes,Punjab,FYM
+cotton,loamy,0.5875,0.85,0.9,Harvest,0.466666667,0.944444444,Yes,0.995708155,Yes,Rajasthan,DAP
+oil seeds,loamy,0.4125,0.2,0.3,Vegetative,0.207407407,1,No,0.811158798,No,Rajasthan,Ammonium Sulphate
+cotton,red,0.2875,0.35,1,Harvest,0.485185185,0.888888889,Yes,0.570815451,Yes,Uttar Pradesh,MOP
+ground nuts,sandy,0.2875,0.416666667,0.383333333,Harvest,0.811111111,0.777777778,Yes,0.051502146,No,West Bengal,FYM
+cotton,red,0.5625,0.616666667,0.983333333,Vegetative,0.062962963,1,No,0.505007153,No,Andhra Pradesh,MOP
+millets,loamy,0.15,0.516666667,0.283333333,Vegetative,0.874074074,0.777777778,Yes,0.725321888,Yes,Gujarat,Urea
+maize,sandy,0.8875,0.466666667,0.95,Vegetative,0.196296296,0.5,No,0.329041488,Yes,Karnataka,Urea
+millets,black,0.375,0.4,0.366666667,Harvest,0.037037037,0.555555556,Yes,0.809728183,Yes,Tamil Nadu,FYM
+tobacco,loamy,0.975,0.4,0.25,Maturity,0.648148148,0.388888889,Yes,0.815450644,Yes,Andhra Pradesh,Ammonium Sulphate
+cotton,clayey,0.7,0.55,1,Vegetative,0.877777778,0.833333333,Yes,0.490701001,Yes,Punjab,Compost
+wheat,loamy,0.35,0.2,0.333333333,Harvest,0.307407407,0.277777778,No,0.373390558,No,Madhya Pradesh,Urea
+pulses,black,0.225,0.266666667,0,Harvest,0.507407407,0.388888889,Yes,0.198855508,Yes,Gujarat,MOP
+barley,clayey,0.1375,0.25,0.366666667,Vegetative,0.796296296,0.944444444,Yes,0.868383405,No,Rajasthan,Ammonium Sulphate
+ground nuts,black,0.4625,0.266666667,0.4,Sowing,0.125925926,0.444444444,No,0.706723891,No,Gujarat,Ammonium Sulphate
+cotton,black,0.6625,0.516666667,0.25,Maturity,0.822222222,0.444444444,Yes,0.763948498,Yes,Tamil Nadu,Zinc Sulphate
+cotton,loamy,0.5625,0.633333333,0.983333333,Vegetative,0.396296296,0,Yes,0.419170243,No,Punjab,Urea
+tobacco,red,0.875,0.366666667,0.6,Harvest,0.655555556,0.222222222,Yes,0.60658083,Yes,Rajasthan,Urea
+tobacco,black,0.3625,0.916666667,0.816666667,Sowing,0.707407407,0.777777778,Yes,0.535050072,No,Rajasthan,Urea
+wheat,loamy,0.425,0.216666667,0.466666667,Vegetative,0.281481481,0.722222222,No,0.846924177,No,Maharashtra,Urea
+tobacco,red,0.6625,0.583333333,0.516666667,Vegetative,0.288888889,0.944444444,No,0.995708155,Yes,Tamil Nadu,Compost
+oil seeds,clayey,0.075,0.116666667,0.233333333,Harvest,0.125925926,0.611111111,No,0.768240343,No,Andhra Pradesh,Urea
+wheat,clayey,0.3125,0.266666667,0.183333333,Flowering,0.051851852,0,No,0.796852647,Yes,West Bengal,NPK 20-20-20
+wheat,red,0.175,0.416666667,0.033333333,Flowering,0.87037037,0.5,No,0.067238913,No,Punjab,MOP
+barley,clayey,0.45,0.283333333,0.216666667,Vegetative,0.348148148,0.722222222,Yes,0.623748212,Yes,Uttar Pradesh,NPK 20-20-20
+wheat,clayey,0.175,0.183333333,0.633333333,Sowing,0.837037037,0.666666667,No,0.52360515,Yes,Gujarat,DAP
+paddy,clayey,0.5125,0.266666667,0.05,Harvest,0.955555556,0.388888889,No,0.713876967,Yes,West Bengal,MOP
+pulses,black,0.075,0.066666667,0.466666667,Flowering,0.555555556,0.222222222,No,0.267525036,No,Gujarat,Urea
+barley,black,0.65,0.533333333,0.2,Maturity,0.17037037,0.888888889,Yes,0.885550787,Yes,West Bengal,DAP
+cotton,red,0.9875,0.35,0.75,Harvest,0.825925926,0.277777778,No,0.908440629,No,Punjab,Ammonium Sulphate
+pulses,sandy,0.1125,0.5,0.216666667,Harvest,0.67037037,0.666666667,No,0.811158798,No,Karnataka,Urea
+sugarcane,red,0.7875,0.566666667,0.3,Harvest,0.874074074,1,No,0.975679542,No,Andhra Pradesh,Compost
+paddy,loamy,0.1875,0.433333333,0.216666667,Maturity,0.307407407,0.444444444,Yes,0.989985694,Yes,Karnataka,Ammonium Sulphate
+millets,loamy,0.2375,0.55,0.116666667,Maturity,0.107407407,0.5,No,0.778254649,No,West Bengal,MOP
+paddy,loamy,0.15,0.6,0.116666667,Sowing,0.162962963,0.5,Yes,0.755364807,No,Karnataka,MOP
+pulses,black,0.375,0.2,0.416666667,Vegetative,0.874074074,0.055555556,No,0.749642346,Yes,Uttar Pradesh,NPK 20-20-20
+sugarcane,loamy,0.4875,0.883333333,0.466666667,Maturity,0.611111111,0.222222222,No,0.86695279,Yes,Madhya Pradesh,FYM
+ground nuts,clayey,0.3625,0.166666667,0.016666667,Vegetative,0.059259259,0.166666667,Yes,0.273247496,No,Tamil Nadu,MOP
+barley,clayey,0.3625,0.233333333,0.183333333,Harvest,0.118518519,0.611111111,Yes,0.779685265,Yes,Maharashtra,Ammonium Sulphate
+millets,black,0.2,0.483333333,0.4,Harvest,0.003703704,0.777777778,Yes,0.291845494,Yes,Rajasthan,Zinc Sulphate
+cotton,sandy,0.65,0.616666667,0.25,Harvest,0.781481481,0.166666667,Yes,0.595135908,Yes,Tamil Nadu,FYM
+sugarcane,black,0.4875,0.433333333,0.216666667,Flowering,0.240740741,0.388888889,Yes,0.978540773,Yes,Punjab,DAP
+barley,loamy,0.4875,0.283333333,0,Maturity,0.918518519,0.777777778,No,0.899856938,No,Andhra Pradesh,MOP
+barley,red,0.675,0.666666667,0.616666667,Maturity,0.359259259,0.833333333,No,0.217453505,No,Tamil Nadu,DAP
+millets,red,0.5375,0.183333333,0.183333333,Sowing,0.185185185,0.444444444,Yes,0.048640916,No,Maharashtra,Ammonium Sulphate
+cotton,clayey,0.45,0.966666667,0.75,Sowing,0.355555556,0.722222222,No,0.814020029,Yes,Karnataka,Urea
+cotton,sandy,0.4125,0.583333333,1,Sowing,0.42962963,0.722222222,No,0.577968526,Yes,Tamil Nadu,DAP
+pulses,red,0.4625,0.3,0.45,Maturity,0.033333333,0.777777778,Yes,0.460658083,No,Gujarat,Urea
+barley,loamy,0.5875,0.55,0.016666667,Vegetative,0.025925926,0.444444444,No,0.258941345,Yes,Punjab,MOP
+paddy,sandy,0.1625,0.55,0.466666667,Flowering,0.162962963,0.944444444,Yes,0.673819742,Yes,Gujarat,Compost
+tobacco,sandy,0.75,0.833333333,0.75,Flowering,0.185185185,0.611111111,Yes,0.474964235,No,Andhra Pradesh,Urea
+maize,black,0.95,0.516666667,0.85,Maturity,0.996296296,0.166666667,Yes,0.682403433,Yes,Gujarat,DAP
+ground nuts,clayey,0.4875,0.233333333,0.05,Flowering,0.362962963,0.166666667,No,0.515021459,No,West Bengal,MOP
+tobacco,black,0.3875,0.7,0.833333333,Flowering,0.707407407,0.666666667,Yes,0.515021459,Yes,Andhra Pradesh,DAP
+pulses,sandy,0.2125,0.35,0.216666667,Sowing,0.559259259,0,Yes,0.616595136,Yes,Rajasthan,FYM
+ground nuts,red,0.35,0.433333333,0.316666667,Sowing,0.118518519,0.777777778,Yes,0.711015737,No,Rajasthan,DAP
+tobacco,clayey,0.5125,0.683333333,0.183333333,Maturity,0.225925926,0.5,No,0.838340486,No,West Bengal,DAP
+sugarcane,sandy,0.7625,0.9,1,Flowering,0.82962963,0.666666667,Yes,0.022889843,Yes,West Bengal,DAP
+wheat,red,0.7125,0.183333333,0.333333333,Vegetative,0.351851852,0.777777778,Yes,0.91702432,No,Tamil Nadu,NPK 20-20-20
+ground nuts,clayey,0.25,0.266666667,0.433333333,Vegetative,0.762962963,0.444444444,No,0.125894134,No,Uttar Pradesh,Zinc Sulphate
+cotton,black,0.725,0.383333333,0.233333333,Flowering,0.851851852,0.666666667,No,0.311874106,Yes,Tamil Nadu,MOP
+maize,loamy,0.6125,0.733333333,0.6,Harvest,0.574074074,0.833333333,No,0.705293276,No,Maharashtra,Zinc Sulphate
+sugarcane,red,0.675,0.883333333,0.633333333,Sowing,0.825925926,0.666666667,Yes,0.444921316,No,Tamil Nadu,DAP
+oil seeds,sandy,0.2125,0,0.383333333,Sowing,0.72962963,0.333333333,No,0.758226037,No,Maharashtra,DAP
+pulses,black,0.275,0.083333333,0.383333333,Maturity,0.162962963,0.111111111,Yes,0.670958512,No,Uttar Pradesh,DAP
+wheat,sandy,0.625,0.5,0.233333333,Sowing,0.974074074,0.388888889,No,0.705293276,Yes,Rajasthan,MOP
+wheat,clayey,0.425,0.25,0.516666667,Vegetative,0.537037037,0.333333333,No,0.6981402,No,Andhra Pradesh,Compost
+cotton,sandy,0.85,0.583333333,0.4,Maturity,0.988888889,0.833333333,Yes,0.284692418,No,West Bengal,Ammonium Sulphate
+pulses,red,0.3625,0.15,0.05,Flowering,0.685185185,0.666666667,Yes,0.855507868,No,Tamil Nadu,DAP
+cotton,sandy,0.725,0.466666667,0.366666667,Maturity,0.177777778,0.722222222,Yes,0.632331903,No,West Bengal,Urea
+ground nuts,clayey,0.375,0.1,0.316666667,Harvest,0.507407407,0.888888889,No,0.077253219,No,Maharashtra,DAP
+millets,clayey,0.7375,0.333333333,0.05,Vegetative,0.644444444,0.388888889,Yes,0.456366237,No,Andhra Pradesh,MOP
+sugarcane,red,0.725,0.883333333,0.166666667,Sowing,0.374074074,0.722222222,Yes,0.583690987,No,Maharashtra,Urea
+tobacco,loamy,1,1,0.316666667,Vegetative,0.414814815,0.222222222,No,0.012875536,No,Andhra Pradesh,DAP
+oil seeds,sandy,0.3625,0.5,0.333333333,Maturity,0.648148148,0.5,No,0.494992847,Yes,Tamil Nadu,FYM
+wheat,red,0.575,0.316666667,0.283333333,Sowing,0.559259259,0.944444444,Yes,0.593705293,Yes,Tamil Nadu,Zinc Sulphate
+wheat,black,0.75,0.616666667,0.333333333,Flowering,0.381481481,0.222222222,No,0.65379113,No,Gujarat,Compost
+millets,black,0.1375,0.45,0.566666667,Harvest,0.077777778,0.5,No,0.3018598,Yes,West Bengal,Zinc Sulphate
+barley,clayey,0.4,0.216666667,0.033333333,Harvest,0.218518519,0.833333333,No,0.693848355,Yes,Rajasthan,MOP
+cotton,sandy,0.775,0.566666667,0.6,Maturity,0.518518519,0.333333333,No,0.389127325,Yes,Rajasthan,Compost
+oil seeds,clayey,0.4875,0.433333333,0.116666667,Flowering,0.003703704,0.444444444,Yes,0.898426323,No,Maharashtra,MOP
+oil seeds,loamy,0.1625,0.266666667,0.183333333,Vegetative,0.696296296,0.166666667,No,0.809728183,Yes,Karnataka,Urea
+oil seeds,black,0.475,0.4,0.083333333,Flowering,0.455555556,0.611111111,Yes,0.381974249,No,Tamil Nadu,MOP
+oil seeds,black,0.0375,0.083333333,0.316666667,Flowering,0.877777778,1,Yes,0.572246066,No,Andhra Pradesh,Urea
+sugarcane,sandy,0.925,0.466666667,0.9,Sowing,0.081481481,0.222222222,Yes,0.21316166,Yes,West Bengal,FYM
+oil seeds,clayey,0.1375,0.233333333,0.15,Sowing,0.340740741,0.944444444,Yes,0.878397711,Yes,Maharashtra,MOP
+maize,clayey,0.875,0.75,0.933333333,Sowing,0.014814815,0.222222222,No,0.759656652,Yes,Madhya Pradesh,NPK 20-20-20
+sugarcane,loamy,0.7375,0.6,0.266666667,Harvest,0.018518519,0.777777778,No,0.731044349,Yes,Madhya Pradesh,DAP
+wheat,black,0.5375,0.25,0.15,Maturity,0.27037037,0.277777778,Yes,0.353361946,Yes,Madhya Pradesh,MOP
+wheat,black,0.625,0.616666667,0.25,Vegetative,0.322222222,0.555555556,No,0.642346209,Yes,Madhya Pradesh,Urea
+ground nuts,clayey,0.1125,0.366666667,0.033333333,Flowering,0.092592593,0.111111111,Yes,0.711015737,No,Gujarat,Urea
+tobacco,loamy,0.475,0.55,0.216666667,Flowering,0.37037037,0.888888889,Yes,0.220314735,No,Maharashtra,Ammonium Sulphate
+ground nuts,loamy,0.175,0.333333333,0.2,Sowing,0.862962963,0,Yes,0.350500715,Yes,Karnataka,NPK 20-20-20
+cotton,black,0.4875,0.9,0.5,Harvest,0.662962963,0.444444444,No,0.989985694,No,West Bengal,MOP
+tobacco,sandy,0.6875,0.95,0.966666667,Maturity,0.733333333,0.5,No,0.054363376,No,Gujarat,DAP
+ground nuts,loamy,0.3,0.45,0.3,Maturity,0.462962963,0.944444444,Yes,0.982832618,No,Uttar Pradesh,Zinc Sulphate
+ground nuts,loamy,0.2375,0.25,0.2,Maturity,0.596296296,0.444444444,No,0.925608011,No,Punjab,Compost
+oil seeds,red,0.2875,0.183333333,0.15,Maturity,0.981481481,0,Yes,0.848354793,No,Andhra Pradesh,MOP
+ground nuts,loamy,0.1875,0,0.233333333,Harvest,0.444444444,0.777777778,No,0.793991416,Yes,Maharashtra,DAP
+millets,red,0.4125,0.4,0.266666667,Vegetative,0.196296296,0.722222222,No,0.82260372,Yes,Rajasthan,Urea
+millets,black,0.35,0.583333333,0.166666667,Harvest,0.133333333,0,Yes,0.95851216,Yes,Uttar Pradesh,NPK 20-20-20
+tobacco,clayey,0.725,0.35,0.266666667,Harvest,0.637037037,1,No,0.380543634,No,Karnataka,MOP
+oil seeds,black,0.3875,0.366666667,0.1,Vegetative,0.492592593,0.111111111,No,0.00286123,Yes,Madhya Pradesh,MOP
+wheat,black,0.75,0.316666667,0.15,Maturity,0.896296296,0.5,Yes,0.729613734,Yes,Uttar Pradesh,MOP
+paddy,red,0.2875,0.216666667,0.333333333,Flowering,0.27037037,0.666666667,Yes,0.017167382,No,Gujarat,Zinc Sulphate
+barley,red,0.55,0.166666667,0.133333333,Sowing,0.2,0.777777778,No,0.859799714,No,Rajasthan,MOP
+millets,sandy,0.375,0.25,0.483333333,Sowing,0.662962963,0.888888889,Yes,0.529327611,No,Karnataka,Zinc Sulphate
+ground nuts,red,0.2,0.416666667,0.25,Flowering,0.892592593,0.333333333,No,0.120171674,No,West Bengal,Urea
+paddy,black,0.3125,0.2,0.25,Maturity,0.837037037,0.5,Yes,0.766809728,No,Rajasthan,MOP
+sugarcane,black,0.6,0.85,0.933333333,Flowering,0.662962963,0.388888889,No,0.389127325,Yes,Madhya Pradesh,FYM
+wheat,clayey,0.225,0.35,0.15,Maturity,0.948148148,0.111111111,Yes,0.314735336,Yes,Andhra Pradesh,MOP
+barley,black,0.2,0.283333333,0.05,Maturity,0.637037037,0.833333333,Yes,0.204577969,No,Uttar Pradesh,MOP
+maize,red,0.925,0.35,0.433333333,Maturity,0.133333333,0.888888889,Yes,0.570815451,Yes,Andhra Pradesh,Ammonium Sulphate
+barley,sandy,0.7,0.433333333,0.433333333,Sowing,0.888888889,0.611111111,Yes,0.168812589,Yes,West Bengal,DAP
+millets,loamy,0.7375,0.566666667,0.116666667,Sowing,0.82962963,0.611111111,No,0.69241774,No,Andhra Pradesh,MOP
+ground nuts,clayey,0.1125,0.316666667,0.266666667,Sowing,0.974074074,0.666666667,No,0.836909871,Yes,Madhya Pradesh,Urea
+cotton,loamy,0.7875,0.916666667,0.75,Sowing,0.92962963,0.777777778,Yes,0.573676681,Yes,Karnataka,Compost
+oil seeds,black,0.4875,0.15,0.416666667,Harvest,0.77037037,0.055555556,No,0.492131617,No,West Bengal,DAP
+ground nuts,black,0.2875,0,0.266666667,Harvest,0.1,0.944444444,Yes,0.144492132,Yes,Gujarat,DAP
+sugarcane,sandy,0.3125,0.633333333,0.55,Harvest,0.766666667,0.277777778,No,0.852646638,Yes,Tamil Nadu,Urea
+millets,red,0.55,0.366666667,0.616666667,Vegetative,0.474074074,0.222222222,No,0.535050072,Yes,Gujarat,Zinc Sulphate
+millets,black,0.15,0.6,0.616666667,Flowering,0.744444444,0.833333333,Yes,0.151645207,Yes,Madhya Pradesh,Urea
+cotton,clayey,0.55,0.616666667,0.85,Maturity,0.814814815,0.388888889,No,0.553648069,Yes,Andhra Pradesh,DAP
+paddy,clayey,0.2,0.316666667,0.183333333,Vegetative,0.6,0.777777778,Yes,0.444921316,Yes,Uttar Pradesh,Compost
+oil seeds,red,0.3,0.2,0.233333333,Maturity,0.344444444,0.055555556,No,0.449213162,Yes,Gujarat,Zinc Sulphate
+ground nuts,loamy,0.1,0.233333333,0.25,Maturity,0.540740741,0.444444444,No,0.055793991,No,Karnataka,Urea
+wheat,sandy,0.375,0.366666667,0.333333333,Harvest,0.462962963,0.777777778,No,0.296137339,No,Gujarat,Urea
+ground nuts,black,0.25,0.016666667,0.166666667,Flowering,0.277777778,0.666666667,Yes,0.21602289,No,Karnataka,DAP
+ground nuts,red,0,0.016666667,0.25,Flowering,0.840740741,0.555555556,No,0.73962804,Yes,Punjab,Urea
+oil seeds,red,0.225,0.25,0.316666667,Harvest,0.088888889,0,No,0.596566524,No,Karnataka,Compost
+pulses,black,0.075,0.366666667,0.35,Flowering,0.362962963,0.722222222,No,0.928469242,Yes,Punjab,Urea
+pulses,red,0.25,0.383333333,0.433333333,Flowering,0.218518519,0.777777778,Yes,0.723891273,Yes,Gujarat,Zinc Sulphate
+wheat,sandy,0.625,0.316666667,0.6,Flowering,0.188888889,0.944444444,No,0.675250358,No,Karnataka,DAP
+maize,red,0.7375,0.45,0.75,Flowering,0.544444444,0,No,0.320457797,Yes,Punjab,FYM
+tobacco,red,0.625,1,0.183333333,Flowering,0.007407407,0.722222222,No,0.525035765,No,Tamil Nadu,MOP
+oil seeds,red,0.1625,0.016666667,0.45,Sowing,0.703703704,0.277777778,Yes,0.804005722,Yes,Uttar Pradesh,DAP
+maize,black,0.4375,0.65,0.85,Maturity,0.848148148,0.5,No,0.178826896,No,Madhya Pradesh,Compost
+ground nuts,sandy,0.1,0.466666667,0.033333333,Flowering,0.644444444,0,No,0.17167382,Yes,Punjab,Urea
+paddy,black,0.25,0.666666667,0.2,Sowing,0.151851852,0,No,0.537911302,Yes,Karnataka,FYM
+ground nuts,clayey,0.2125,0.416666667,0,Harvest,0.496296296,0.5,Yes,0.08583691,Yes,Uttar Pradesh,MOP
+ground nuts,clayey,0.125,0.433333333,0.183333333,Sowing,0.051851852,0.055555556,Yes,0.731044349,No,Maharashtra,MOP
+tobacco,clayey,0.8875,0.483333333,0.983333333,Vegetative,0.911111111,0.722222222,No,0.623748212,Yes,Madhya Pradesh,DAP
+tobacco,black,0.8875,0.933333333,0.683333333,Harvest,0.185185185,0,No,0.147353362,No,Uttar Pradesh,Ammonium Sulphate
+cotton,red,0.975,0.65,0.216666667,Maturity,0.848148148,0.222222222,Yes,0.223175966,Yes,Rajasthan,MOP
+sugarcane,black,0.2625,0.716666667,0.3,Maturity,0.859259259,1,No,0.094420601,Yes,Karnataka,Zinc Sulphate
+paddy,clayey,0.35,0.25,0.466666667,Vegetative,0.555555556,0.111111111,No,0.596566524,Yes,Karnataka,Zinc Sulphate
+paddy,loamy,0.1875,0.316666667,0.316666667,Harvest,0.559259259,0.888888889,Yes,0.725321888,No,Gujarat,Compost
+ground nuts,red,0.3,0.433333333,0.45,Flowering,0.022222222,0.388888889,Yes,0.613733906,Yes,Madhya Pradesh,NPK 20-20-20
+barley,black,0.1625,0.316666667,0.15,Sowing,0.02962963,1,No,0.439198856,Yes,Karnataka,MOP
+millets,red,0.475,0.516666667,0.233333333,Flowering,0.059259259,0.444444444,Yes,0.165951359,Yes,Gujarat,FYM
+cotton,loamy,0.375,0.516666667,0.383333333,Vegetative,0.462962963,0.777777778,Yes,0.353361946,Yes,Uttar Pradesh,Ammonium Sulphate
+cotton,sandy,0.8375,0.533333333,0.983333333,Flowering,0.603703704,0.777777778,Yes,0.467811159,Yes,Karnataka,DAP
+pulses,loamy,0,0.066666667,0.433333333,Vegetative,0.340740741,0.5,No,0.52074392,No,Uttar Pradesh,Urea
+maize,red,0.975,0.433333333,0.3,Flowering,0.677777778,0.611111111,Yes,0.510729614,Yes,West Bengal,Urea
+barley,loamy,0.4625,0.466666667,0.083333333,Flowering,0.366666667,0.111111111,No,0.037195994,Yes,Andhra Pradesh,MOP
+paddy,black,0.45,0.333333333,0.016666667,Sowing,0.422222222,0.666666667,No,0.137339056,Yes,Madhya Pradesh,MOP
+cotton,clayey,0.3125,0.6,0.95,Flowering,0.559259259,0.888888889,Yes,0.722460658,Yes,Punjab,Urea
+millets,black,0.15,0.4,0.5,Harvest,0.033333333,0.666666667,Yes,0.812589413,Yes,Rajasthan,FYM
+cotton,loamy,0.3875,0.583333333,0.7,Sowing,0.777777778,0.388888889,No,0.296137339,Yes,Rajasthan,NPK 20-20-20
+oil seeds,black,0.3,0.083333333,0.5,Flowering,0.985185185,0.111111111,No,0.908440629,Yes,Andhra Pradesh,DAP
+tobacco,red,1,0.4,0.266666667,Vegetative,0.414814815,0.833333333,No,0.716738197,Yes,Maharashtra,MOP
+ground nuts,clayey,0.075,0.35,0.05,Flowering,0.440740741,0.111111111,No,0.201716738,Yes,Madhya Pradesh,Urea
+sugarcane,sandy,0.925,0.866666667,0.95,Flowering,0.592592593,0.055555556,No,0.424892704,Yes,Maharashtra,Urea
+sugarcane,red,0.2875,0.7,0.566666667,Vegetative,0.555555556,0.055555556,Yes,0.854077253,No,Tamil Nadu,Compost
+wheat,clayey,0.35,0.25,0,Harvest,0.707407407,0.166666667,No,0.599427754,Yes,Uttar Pradesh,MOP
+tobacco,sandy,0.775,0.35,0.183333333,Flowering,0.862962963,0.222222222,Yes,0.615164521,No,Gujarat,MOP
+barley,sandy,0.3375,0.566666667,0.666666667,Maturity,0.344444444,0.388888889,No,0.924177396,No,Punjab,MOP
+cotton,red,0.5,0.783333333,0.716666667,Maturity,0.222222222,0.666666667,No,0.984263233,No,West Bengal,Ammonium Sulphate
+oil seeds,clayey,0.0125,0.066666667,0.233333333,Sowing,0.451851852,0.777777778,Yes,0.752503577,No,Madhya Pradesh,Urea
+millets,loamy,0.4,0.6,0.283333333,Vegetative,0.048148148,0.166666667,No,0.39341917,Yes,Rajasthan,FYM
+wheat,sandy,0.375,0.433333333,0.316666667,Vegetative,0.948148148,1,Yes,0.715307582,Yes,Gujarat,Zinc Sulphate
+pulses,loamy,0.25,0.183333333,0.433333333,Flowering,0.651851852,0.166666667,Yes,0.457796853,No,Maharashtra,Ammonium Sulphate
+millets,loamy,0.275,0.166666667,0.216666667,Harvest,0.874074074,0.944444444,No,0.115879828,Yes,Punjab,Urea
+ground nuts,clayey,0.05,0.266666667,0.483333333,Harvest,0.1,0.722222222,Yes,0.78111588,Yes,Tamil Nadu,Urea
+barley,clayey,0.2,0.666666667,0.35,Maturity,0.388888889,0.111111111,Yes,0.350500715,No,Maharashtra,MOP
+barley,loamy,0.3625,0.2,0.15,Vegetative,0.692592593,0.722222222,No,0.147353362,Yes,Andhra Pradesh,MOP
+maize,red,0.625,0.35,0.516666667,Sowing,0.603703704,0.444444444,Yes,0.537911302,No,Tamil Nadu,Zinc Sulphate
+wheat,red,0.4625,0.25,0.05,Flowering,0.414814815,0.611111111,No,0.267525036,Yes,Tamil Nadu,MOP
+pulses,sandy,0.5,0.216666667,0.4,Vegetative,0.981481481,0,No,0.535050072,Yes,Karnataka,Zinc Sulphate
+pulses,sandy,0.05,0,0,Harvest,0.025925926,0.111111111,Yes,0.081545064,No,Tamil Nadu,Urea
+tobacco,loamy,0.7375,0.866666667,0.883333333,Flowering,0.096296296,0.666666667,Yes,0.889842632,Yes,Rajasthan,Urea
+pulses,loamy,0.0625,0,0.433333333,Sowing,0.881481481,1,No,0.6981402,No,Maharashtra,Urea
+wheat,red,0.15,0.6,0.6,Harvest,0.311111111,0.888888889,No,0.526466381,Yes,Rajasthan,Urea
+pulses,sandy,0.2875,0.3,0.316666667,Sowing,0.425925926,0.777777778,Yes,0.319027182,Yes,Punjab,MOP
+barley,clayey,0.5375,0.2,0.616666667,Maturity,0.114814815,0.5,Yes,0.423462089,Yes,Karnataka,Compost
+cotton,red,0.7,0.883333333,0.3,Sowing,0.592592593,0.333333333,No,0.575107296,No,Andhra Pradesh,FYM
+ground nuts,loamy,0.1875,0.15,0.05,Harvest,0.240740741,0.555555556,No,0.460658083,No,Andhra Pradesh,DAP
+millets,loamy,0.2875,0.566666667,0.616666667,Harvest,0.262962963,0.166666667,No,0.221745351,No,Uttar Pradesh,Urea
+millets,red,0.6875,0.433333333,0.466666667,Maturity,0.67037037,0.333333333,No,0.608011445,Yes,Punjab,NPK 20-20-20
+wheat,black,0.625,0.25,0,Sowing,0.185185185,0.388888889,No,0.402002861,Yes,Gujarat,MOP
+oil seeds,loamy,0.4375,0.216666667,0.1,Sowing,0.025925926,0.555555556,No,0.492131617,No,Rajasthan,MOP
+barley,clayey,0.6875,0.316666667,0.116666667,Vegetative,0.748148148,0.444444444,Yes,0.208869814,No,Gujarat,MOP
+millets,sandy,0.4125,0.233333333,0.166666667,Maturity,0.855555556,0.111111111,Yes,0.735336195,No,Karnataka,MOP
+millets,sandy,0.4,0.566666667,0.6,Maturity,0.114814815,0.722222222,Yes,0.413447783,Yes,West Bengal,Zinc Sulphate
+paddy,black,0.7125,0.283333333,0.483333333,Maturity,0.796296296,0.777777778,Yes,0.157367668,No,Maharashtra,Compost
+barley,black,0.425,0.25,0.6,Flowering,0.433333333,0.333333333,Yes,0.381974249,Yes,Uttar Pradesh,DAP
+oil seeds,red,0.25,0.316666667,0.316666667,Harvest,0.17037037,0.388888889,Yes,0.077253219,Yes,Andhra Pradesh,Ammonium Sulphate
+oil seeds,red,0.2375,0.1,0.383333333,Sowing,0.644444444,0.055555556,Yes,0.467811159,No,Karnataka,DAP
+oil seeds,loamy,0,0.133333333,0.35,Sowing,0.933333333,0.944444444,No,0.258941345,No,Gujarat,Urea
+tobacco,black,0.6125,0.733333333,0.45,Sowing,0.592592593,0.444444444,No,0.090128755,No,West Bengal,Compost
+sugarcane,sandy,0.55,0.916666667,0.916666667,Flowering,0.7,0.111111111,No,0.51788269,No,Andhra Pradesh,MOP
+cotton,red,0.5875,0.583333333,0.383333333,Flowering,0.211111111,0.555555556,Yes,0.645207439,No,Uttar Pradesh,Compost
+maize,clayey,0.6875,0.683333333,0.583333333,Vegetative,0.159259259,0.888888889,No,0.842632332,Yes,Punjab,Ammonium Sulphate
+tobacco,black,0.25,0.933333333,0.266666667,Sowing,0.974074074,0.388888889,No,0.792560801,No,Gujarat,DAP
+wheat,red,0.3375,0.316666667,0.416666667,Sowing,0.207407407,0.833333333,No,0.854077253,No,Maharashtra,FYM
+tobacco,clayey,0.9,0.383333333,0.983333333,Maturity,0.311111111,0.277777778,No,0.21888412,No,Gujarat,DAP
+wheat,sandy,0.525,0.583333333,0.283333333,Flowering,0.314814815,0.833333333,No,0.845493562,No,Rajasthan,Zinc Sulphate
+maize,black,0.9625,0.833333333,0.433333333,Sowing,0.440740741,0.722222222,Yes,0.473533619,Yes,Gujarat,Ammonium Sulphate
+ground nuts,black,0.2125,0.416666667,0.266666667,Sowing,0.407407407,0.388888889,No,0.965665236,No,West Bengal,DAP
+oil seeds,sandy,0.275,0.3,0.183333333,Flowering,0.503703704,0.777777778,No,0.091559371,No,Uttar Pradesh,Zinc Sulphate
+ground nuts,black,0.45,0.133333333,0.133333333,Maturity,0.703703704,0.444444444,No,0.399141631,Yes,Maharashtra,DAP
+ground nuts,red,0.4625,0.116666667,0.15,Harvest,0.851851852,0.166666667,No,0.949928469,Yes,West Bengal,DAP
+oil seeds,clayey,0.3625,0.383333333,0,Vegetative,0.577777778,0,Yes,0.47925608,No,Gujarat,MOP
+tobacco,red,0.45,0.583333333,0.85,Harvest,0.440740741,0.722222222,Yes,0.662374821,Yes,Madhya Pradesh,Urea
+pulses,sandy,0.375,0.316666667,0.283333333,Flowering,0.262962963,0.222222222,Yes,0.690987124,No,Tamil Nadu,NPK 20-20-20
+maize,red,0.775,0.95,0.95,Vegetative,0.055555556,0.277777778,Yes,0.743919886,No,Karnataka,DAP
+barley,red,0.6375,0.5,0.616666667,Harvest,0.440740741,0,No,0.889842632,No,Gujarat,DAP
+ground nuts,black,0.0625,0.083333333,0.483333333,Sowing,0.518518519,0.555555556,No,0.779685265,Yes,Andhra Pradesh,Urea
+paddy,sandy,0.1375,0.45,0.4,Vegetative,0.251851852,0.333333333,Yes,0.154506438,Yes,Madhya Pradesh,MOP
+millets,red,0.425,0.55,0.25,Vegetative,0.537037037,0.666666667,No,0.731044349,No,Uttar Pradesh,NPK 20-20-20
+millets,sandy,0.4375,0.666666667,0.033333333,Harvest,0.311111111,0.333333333,Yes,0.587982833,Yes,Andhra Pradesh,MOP
+barley,sandy,0.35,0.483333333,0.483333333,Sowing,0.144444444,0.166666667,No,0.95565093,No,Punjab,Compost
+paddy,clayey,0.6375,0.533333333,0.233333333,Maturity,0.196296296,0.5,Yes,0.526466381,No,Maharashtra,Urea
+tobacco,sandy,0.925,0.4,0.6,Flowering,0.755555556,0.111111111,No,0.682403433,Yes,Punjab,Compost
+cotton,sandy,0.9625,0.933333333,0.75,Harvest,0.581481481,0,No,0.600858369,No,Gujarat,NPK 20-20-20
+cotton,loamy,0.95,0.566666667,0.216666667,Flowering,0.933333333,0.444444444,No,0.779685265,Yes,Andhra Pradesh,Urea
+sugarcane,clayey,0.8375,0.483333333,0.616666667,Vegetative,0.788888889,0.833333333,Yes,0.945636624,Yes,West Bengal,Urea
+barley,sandy,0.4625,0.65,0.35,Harvest,0.507407407,0.166666667,No,0.582260372,No,Rajasthan,DAP
+maize,red,0.3625,0.916666667,0.9,Flowering,0.522222222,0.388888889,No,0.306151645,Yes,Gujarat,Compost
+maize,clayey,0.8,0.4,0.833333333,Sowing,0.325925926,0.777777778,No,0.221745351,No,Andhra Pradesh,Ammonium Sulphate
+pulses,black,0.2375,0.05,0.483333333,Harvest,0.407407407,0.722222222,No,0.253218884,No,Uttar Pradesh,DAP
+paddy,clayey,0.1875,0.55,0.366666667,Vegetative,0.437037037,0.666666667,Yes,0.373390558,No,Rajasthan,Ammonium Sulphate
+pulses,loamy,0,0.366666667,0.216666667,Harvest,0.444444444,0.166666667,Yes,0.494992847,Yes,Punjab,Urea
+cotton,clayey,0.425,0.616666667,0.783333333,Harvest,0.433333333,0.611111111,Yes,0.473533619,No,Tamil Nadu,Ammonium Sulphate
+ground nuts,black,0.475,0.266666667,0.35,Sowing,0.955555556,0.666666667,Yes,0.668097282,Yes,Rajasthan,NPK 20-20-20
+tobacco,black,0.3625,0.483333333,0.983333333,Vegetative,0.740740741,0.611111111,No,0.158798283,No,Gujarat,Ammonium Sulphate
+wheat,clayey,0.1375,0.666666667,0.233333333,Sowing,0.988888889,0.333333333,No,0.12732475,No,Gujarat,MOP
+barley,black,0.6,0.433333333,0.25,Flowering,0.148148148,0.555555556,Yes,0.979971388,Yes,Tamil Nadu,Zinc Sulphate
+wheat,red,0.1875,0.3,0.4,Flowering,0.9,0.777777778,Yes,0.552217454,Yes,Gujarat,Compost
+wheat,sandy,0.35,0.6,0.616666667,Sowing,0.051851852,0.277777778,Yes,0.52074392,Yes,Rajasthan,Ammonium Sulphate
+barley,loamy,0.4875,0.533333333,0.633333333,Harvest,0.166666667,0.277777778,Yes,0.203147353,No,Andhra Pradesh,Zinc Sulphate
+tobacco,clayey,0.8875,0.833333333,0.8,Flowering,0.333333333,0.777777778,Yes,0.453505007,No,Uttar Pradesh,MOP
+ground nuts,black,0.35,0.383333333,0.083333333,Sowing,0.42962963,0,Yes,0.264663805,Yes,Rajasthan,MOP
+barley,loamy,0.325,0.25,0.566666667,Vegetative,0.414814815,0.611111111,Yes,0.359084406,No,Maharashtra,FYM
+wheat,clayey,0.6625,0.45,0.483333333,Sowing,0.396296296,0.222222222,No,0.294706724,No,Madhya Pradesh,Ammonium Sulphate
+millets,clayey,0.725,0.65,0,Flowering,0.774074074,0.611111111,Yes,0.663805436,Yes,Tamil Nadu,MOP
+cotton,clayey,0.675,0.716666667,0.183333333,Sowing,0.244444444,0.722222222,Yes,0.721030043,No,Tamil Nadu,Zinc Sulphate
+maize,clayey,0.7875,0.616666667,0.216666667,Vegetative,0.559259259,0.5,Yes,0.17453505,Yes,Maharashtra,Compost
+barley,black,0.1375,0.65,0.133333333,Vegetative,0.192592593,0.555555556,Yes,0.570815451,Yes,Gujarat,MOP
+maize,black,0.35,0.65,0.766666667,Sowing,0.455555556,0.111111111,Yes,0.854077253,No,Punjab,DAP
+sugarcane,loamy,0.5875,0.533333333,0.45,Vegetative,0.722222222,0.444444444,Yes,0.516452074,No,Tamil Nadu,Urea
+maize,loamy,0.525,0.35,0.8,Maturity,0.437037037,0.944444444,No,0.741058655,Yes,Andhra Pradesh,Ammonium Sulphate
+maize,loamy,0.5125,0.9,0.4,Vegetative,0.014814815,0.833333333,No,0.120171674,Yes,Gujarat,NPK 20-20-20
+millets,loamy,0.35,0.533333333,0.333333333,Flowering,0.622222222,0.722222222,Yes,0.672389127,Yes,Gujarat,Urea
+cotton,sandy,0.9125,0.4,0.883333333,Flowering,0.085185185,0.555555556,Yes,0.891273247,No,Andhra Pradesh,FYM
+sugarcane,red,0.9375,0.566666667,0.983333333,Sowing,0.12962963,0.388888889,Yes,0.273247496,Yes,West Bengal,Zinc Sulphate
+sugarcane,loamy,0.375,0.733333333,0.8,Flowering,0.914814815,0.666666667,Yes,0.383404864,Yes,Tamil Nadu,FYM
+tobacco,clayey,0.6625,0.666666667,0.45,Harvest,0.140740741,0.555555556,No,0.248927039,Yes,West Bengal,Urea
+tobacco,black,0.75,0.583333333,0.716666667,Flowering,0.811111111,0.944444444,No,0.683834049,No,Uttar Pradesh,FYM
+barley,red,0.25,0.616666667,0.366666667,Vegetative,0.592592593,0.444444444,No,0.959942775,Yes,Uttar Pradesh,DAP
+sugarcane,red,0.9125,0.4,0.366666667,Vegetative,0.125925926,0.5,Yes,0.715307582,Yes,Tamil Nadu,Ammonium Sulphate
+sugarcane,sandy,0.7375,1,0.216666667,Sowing,0.588888889,0.388888889,No,0.321888412,No,Punjab,Ammonium Sulphate
+barley,black,0.7,0.55,0.45,Harvest,0.92962963,0.055555556,No,0.131616595,Yes,Madhya Pradesh,DAP
+millets,red,0.5125,0.333333333,0.016666667,Vegetative,0.162962963,0.444444444,No,0.688125894,No,Madhya Pradesh,MOP
+oil seeds,loamy,0.2375,0.433333333,0.283333333,Maturity,0.703703704,0.222222222,Yes,0.154506438,No,Punjab,Compost
+paddy,sandy,0.425,0.35,0.483333333,Flowering,0.633333333,0.888888889,No,0.287553648,No,Maharashtra,NPK 20-20-20
+tobacco,black,0.4875,0.6,0.8,Maturity,0.414814815,0.888888889,Yes,0.347639485,No,Karnataka,FYM
+maize,clayey,0.775,0.4,0.4,Maturity,0.6,0.611111111,Yes,0.709585122,No,Karnataka,Zinc Sulphate
+maize,loamy,0.625,0.833333333,0.466666667,Flowering,0.17037037,0.333333333,No,0.30758226,No,Rajasthan,Compost
+paddy,loamy,0.5375,0.166666667,0.133333333,Harvest,0.377777778,0.444444444,No,0.034334764,No,Rajasthan,MOP
+wheat,clayey,0.575,0.583333333,0.616666667,Harvest,0.277777778,1,No,0.899856938,Yes,Karnataka,DAP
+wheat,red,0.7,0.4,0.166666667,Harvest,0.581481481,0.722222222,No,0.35193133,No,Tamil Nadu,DAP
+tobacco,clayey,0.2625,0.516666667,0.183333333,Sowing,0.585185185,0,Yes,0.628040057,Yes,Uttar Pradesh,Urea
+tobacco,black,0.8125,0.716666667,0.383333333,Maturity,0.162962963,0.333333333,No,0.377682403,No,West Bengal,Urea
+barley,loamy,0.7375,0.183333333,0.316666667,Harvest,0.659259259,0.833333333,Yes,0.087267525,No,West Bengal,DAP
+barley,clayey,0.55,0.45,0.016666667,Vegetative,0.881481481,0.166666667,No,0.756795422,Yes,Rajasthan,MOP
+cotton,clayey,0.75,0.7,0.483333333,Vegetative,0.433333333,0.722222222,No,0.098712446,No,Maharashtra,Zinc Sulphate
+sugarcane,black,0.85,0.516666667,0.7,Vegetative,0.948148148,0.722222222,Yes,0.879828326,No,Karnataka,DAP
+ground nuts,sandy,0.025,0.316666667,0.4,Harvest,0.974074074,0.222222222,No,0.125894134,Yes,Andhra Pradesh,Urea
+oil seeds,black,0.15,0.466666667,0.083333333,Maturity,0.396296296,1,Yes,0.529327611,Yes,Uttar Pradesh,MOP
+wheat,sandy,0.4,0.583333333,0.433333333,Sowing,0.703703704,0.888888889,No,0.008583691,Yes,Andhra Pradesh,MOP
+tobacco,sandy,1,0.433333333,0.283333333,Harvest,0.007407407,0.555555556,No,0.509298999,No,Tamil Nadu,Compost
+sugarcane,loamy,0.9375,0.8,0.766666667,Maturity,0.374074074,0.333333333,No,0.380543634,No,Tamil Nadu,Urea
+ground nuts,black,0.0625,0.3,0.183333333,Vegetative,0.744444444,0.055555556,No,0.055793991,Yes,Tamil Nadu,Urea
+cotton,loamy,0.6875,0.683333333,0.483333333,Maturity,0.877777778,0.5,No,0.60658083,Yes,West Bengal,Compost
+cotton,red,0.3875,0.583333333,0.366666667,Harvest,0.944444444,0,Yes,0.210300429,No,Uttar Pradesh,MOP
+paddy,red,0.75,0.35,0.033333333,Harvest,0.359259259,0.444444444,Yes,0.13018598,Yes,Tamil Nadu,MOP
+millets,red,0.2375,0.2,0.466666667,Flowering,0.640740741,0.222222222,Yes,0.656652361,No,Tamil Nadu,FYM
+barley,black,0.525,0.533333333,0.033333333,Harvest,0.077777778,0.833333333,Yes,0.403433476,No,Andhra Pradesh,MOP
+oil seeds,black,0.325,0.116666667,0.5,Harvest,0.611111111,0.555555556,No,0.321888412,Yes,Punjab,DAP
+millets,red,0.6375,0.2,0.616666667,Harvest,0.974074074,0.5,No,0.971387697,Yes,Uttar Pradesh,NPK 20-20-20
+sugarcane,red,0.625,0.466666667,0.266666667,Vegetative,0.140740741,0.722222222,No,0.982832618,No,Madhya Pradesh,DAP
+cotton,sandy,0.6625,0.45,0.366666667,Vegetative,0.774074074,0.777777778,No,0.317596567,No,Uttar Pradesh,FYM
+wheat,loamy,0.1375,0.233333333,0.65,Vegetative,0.892592593,0.166666667,No,0.902718169,Yes,Madhya Pradesh,NPK 20-20-20
+oil seeds,red,0.15,0.466666667,0.4,Flowering,0.725925926,1,Yes,0.207439199,Yes,Karnataka,Compost
+sugarcane,red,0.6375,0.4,0.35,Sowing,0.774074074,0.222222222,Yes,0.157367668,Yes,Rajasthan,DAP
+maize,clayey,0.425,0.983333333,0.183333333,Maturity,0.722222222,0.166666667,Yes,0.404864092,Yes,Karnataka,DAP
+tobacco,red,0.2875,0.65,0.433333333,Sowing,0.644444444,0.777777778,Yes,0.751072961,Yes,Punjab,Zinc Sulphate
+cotton,sandy,0.3625,0.716666667,0.25,Harvest,0.533333333,0.277777778,No,0.778254649,No,Gujarat,Urea
+cotton,red,0.95,0.7,0.516666667,Flowering,0.948148148,0.388888889,No,0.992846924,Yes,Tamil Nadu,Compost
+maize,red,0.7625,0.883333333,0.233333333,Maturity,0.6,0.888888889,No,0.004291845,Yes,Andhra Pradesh,Ammonium Sulphate
+oil seeds,red,0,0.1,0.233333333,Flowering,0.52962963,0.277777778,Yes,0.181688126,Yes,West Bengal,Urea
+wheat,black,0.35,0.3,0.083333333,Vegetative,0.466666667,0.222222222,Yes,0.896995708,Yes,Maharashtra,MOP
+cotton,red,0.35,0.933333333,0.733333333,Maturity,0.292592593,0.111111111,Yes,0.758226037,No,Karnataka,Zinc Sulphate
+paddy,sandy,0.6125,0.616666667,0,Maturity,0.774074074,0.833333333,Yes,0.74248927,Yes,Gujarat,MOP
+barley,loamy,0.575,0.333333333,0.133333333,Vegetative,0.214814815,0.444444444,No,0.131616595,Yes,Gujarat,MOP
+maize,clayey,0.25,0.666666667,0.783333333,Harvest,0.896296296,0.888888889,Yes,0.533619456,No,Maharashtra,NPK 20-20-20
+oil seeds,clayey,0.15,0.233333333,0.116666667,Flowering,0.311111111,0.777777778,No,0.237482117,No,Karnataka,MOP
+pulses,clayey,0.3,0.15,0.5,Harvest,0.9,0.166666667,Yes,0.875536481,Yes,Andhra Pradesh,DAP
+barley,black,0.15,0.233333333,0.416666667,Sowing,0.122222222,0.388888889,No,0.26037196,Yes,Karnataka,Compost
+maize,red,0.3875,0.55,0.483333333,Sowing,0.211111111,0.777777778,Yes,0.758226037,No,Maharashtra,Urea
+tobacco,loamy,0.775,0.533333333,0.733333333,Harvest,0.892592593,0.111111111,No,0.792560801,Yes,Rajasthan,NPK 20-20-20
+wheat,red,0.3,0.45,0.4,Harvest,0.3,0,No,0.572246066,Yes,Uttar Pradesh,NPK 20-20-20
+ground nuts,red,0.1375,0.283333333,0.116666667,Maturity,0.225925926,1,No,0.278969957,No,Andhra Pradesh,MOP
+pulses,clayey,0.075,0.033333333,0.483333333,Flowering,0.418518519,0.944444444,Yes,0.945636624,Yes,Rajasthan,Urea
+paddy,loamy,0.5625,0.2,0.433333333,Maturity,0.011111111,0.166666667,Yes,0.907010014,Yes,Punjab,DAP
+sugarcane,red,0.3125,0.5,0.233333333,Harvest,0.533333333,0,Yes,0.978540773,No,Tamil Nadu,DAP
+oil seeds,clayey,0.3625,0.5,0.033333333,Harvest,0.577777778,0.777777778,Yes,0.460658083,No,Punjab,MOP
+tobacco,clayey,0.825,0.533333333,0.45,Vegetative,0.759259259,0.555555556,No,0.745350501,No,Uttar Pradesh,Ammonium Sulphate
+barley,black,0.2125,0.416666667,0.35,Flowering,0.97037037,0.944444444,Yes,0.626609442,No,Rajasthan,Zinc Sulphate
+maize,clayey,0.825,0.4,0.966666667,Vegetative,0.737037037,0.888888889,Yes,0.350500715,Yes,West Bengal,Zinc Sulphate
+oil seeds,clayey,0.15,0.366666667,0.233333333,Harvest,0.311111111,0.666666667,No,0.024320458,Yes,Uttar Pradesh,DAP
+cotton,loamy,0.85,0.333333333,0.966666667,Maturity,0.307407407,0.555555556,No,0.101573677,Yes,Uttar Pradesh,Urea
+oil seeds,black,0.0375,0.5,0.15,Vegetative,0.777777778,0.777777778,No,0.201716738,No,Tamil Nadu,Urea
+cotton,sandy,0.9,0.45,0.733333333,Flowering,0.9,0.666666667,No,0.566523605,Yes,Uttar Pradesh,Urea
+maize,clayey,0.9875,0.766666667,0.7,Vegetative,0.825925926,0.388888889,No,0.771101574,No,Punjab,NPK 20-20-20
+cotton,sandy,0.3125,0.866666667,0.766666667,Maturity,0.722222222,0.777777778,Yes,0.228898426,No,West Bengal,Ammonium Sulphate
+millets,loamy,0.175,0.35,0,Sowing,0.877777778,0.388888889,No,0.74248927,Yes,Punjab,MOP
+barley,sandy,0.725,0.366666667,0.283333333,Maturity,0.644444444,0.722222222,Yes,0.929899857,Yes,Karnataka,Urea
+ground nuts,red,0.0875,0.483333333,0.2,Sowing,0.885185185,0.055555556,No,0.849785408,No,Andhra Pradesh,Urea
+tobacco,red,0.3125,0.783333333,0.333333333,Harvest,0.603703704,0.5,Yes,0.613733906,Yes,Tamil Nadu,MOP
+cotton,red,0.7875,0.733333333,0.966666667,Flowering,0.903703704,0.555555556,Yes,0.00286123,No,Tamil Nadu,Zinc Sulphate
+ground nuts,loamy,0.45,0.216666667,0.233333333,Flowering,0.540740741,0.166666667,Yes,0.759656652,Yes,Gujarat,FYM
+sugarcane,sandy,0.825,0.333333333,0.166666667,Vegetative,0.659259259,0.944444444,Yes,0.323319027,Yes,Madhya Pradesh,DAP
+sugarcane,sandy,0.8875,0.483333333,0.733333333,Sowing,0.159259259,0,No,0.040057225,No,Rajasthan,MOP
+maize,sandy,0.8625,0.65,0.516666667,Vegetative,0.640740741,0.888888889,Yes,0.373390558,No,Madhya Pradesh,Ammonium Sulphate
+ground nuts,red,0.175,0.2,0.083333333,Harvest,0.703703704,0.833333333,Yes,0.862660944,Yes,Gujarat,MOP
+maize,loamy,0.825,0.6,0.366666667,Vegetative,0.211111111,1,No,0.012875536,Yes,West Bengal,FYM
+ground nuts,clayey,0.25,0.466666667,0,Vegetative,0.074074074,0.833333333,Yes,0.204577969,Yes,Rajasthan,MOP
+sugarcane,loamy,0.35,0.6,0.883333333,Harvest,0.240740741,0.611111111,No,0.261802575,Yes,Punjab,Compost
+sugarcane,sandy,0.3125,0.683333333,0.75,Maturity,0.781481481,0.944444444,Yes,0.982832618,No,Uttar Pradesh,Urea
+oil seeds,red,0.15,0.3,0.183333333,Maturity,0.988888889,0.666666667,No,0.247496423,No,Punjab,FYM
+ground nuts,loamy,0.1,0.016666667,0.383333333,Flowering,0.862962963,0.222222222,No,0.141630901,No,Uttar Pradesh,Urea
+maize,black,0.55,0.483333333,0.933333333,Sowing,0.540740741,1,No,0.69527897,Yes,Andhra Pradesh,Zinc Sulphate
+ground nuts,black,0.0375,0.116666667,0.066666667,Sowing,0.9,0.277777778,Yes,0.670958512,No,Andhra Pradesh,Urea
+wheat,clayey,0.4375,0.2,0.283333333,Flowering,0.244444444,0,No,0.597997139,Yes,Gujarat,MOP
+tobacco,black,0.775,0.716666667,0.816666667,Sowing,0.759259259,1,No,0.161659514,No,Maharashtra,Compost
+wheat,loamy,0.3125,0.316666667,0.416666667,Maturity,0.844444444,0.666666667,No,0.344778255,Yes,Tamil Nadu,Compost
+paddy,loamy,0.25,0.383333333,0.2,Sowing,0.12962963,0.666666667,No,0.676680973,No,Karnataka,MOP
+pulses,clayey,0.2125,0.116666667,0.366666667,Harvest,0.888888889,0.333333333,No,0.994277539,Yes,Rajasthan,DAP
+paddy,sandy,0.675,0.433333333,0.483333333,Vegetative,0.155555556,0.333333333,No,0.987124464,No,Karnataka,Zinc Sulphate
+paddy,red,0.5625,0.35,0.383333333,Harvest,0.685185185,0.5,No,0.711015737,No,Punjab,Zinc Sulphate
+barley,red,0.45,0.2,0.416666667,Vegetative,0.459259259,0.888888889,Yes,0.659513591,Yes,Gujarat,NPK 20-20-20
+oil seeds,sandy,0.1625,0.366666667,0.333333333,Harvest,0.903703704,0.5,No,0.050071531,No,Tamil Nadu,FYM
+tobacco,black,0.425,0.616666667,0.65,Harvest,0.174074074,0.777777778,No,0.155937053,Yes,Gujarat,Urea
+cotton,clayey,0.925,0.766666667,0.583333333,Vegetative,0.792592593,0.944444444,No,0.529327611,No,Rajasthan,Compost
+cotton,loamy,0.55,0.35,0.933333333,Flowering,0.122222222,0.111111111,Yes,0.856938484,No,Andhra Pradesh,Ammonium Sulphate
+cotton,loamy,0.55,0.516666667,0.816666667,Vegetative,0.955555556,0.111111111,No,0.396280401,No,Punjab,Urea
+cotton,red,0.475,0.7,0.833333333,Flowering,0.525925926,0.444444444,Yes,0.808297568,Yes,Rajasthan,NPK 20-20-20
+ground nuts,sandy,0.1,0.316666667,0.366666667,Flowering,0.359259259,0.833333333,No,0.908440629,Yes,Andhra Pradesh,Urea
+barley,black,0.5,0.416666667,0.516666667,Flowering,0.048148148,0.555555556,No,0.526466381,No,Maharashtra,DAP
+millets,clayey,0.2625,0.233333333,0.35,Harvest,0.074074074,0.666666667,Yes,0.849785408,No,Uttar Pradesh,Compost
+ground nuts,clayey,0.175,0.4,0.25,Vegetative,0.037037037,0.055555556,Yes,0.220314735,Yes,Madhya Pradesh,NPK 20-20-20
+cotton,loamy,0.325,1,0.933333333,Harvest,0.603703704,0.388888889,Yes,0.141630901,No,Uttar Pradesh,Urea
+paddy,loamy,0.3875,0.533333333,0.316666667,Vegetative,0.740740741,0.166666667,Yes,0.506437768,Yes,Uttar Pradesh,NPK 20-20-20
+paddy,black,0.7,0.283333333,0.216666667,Maturity,0.874074074,1,Yes,0.65379113,Yes,West Bengal,Compost
+barley,sandy,0.35,0.383333333,0.35,Sowing,0.562962963,0.111111111,Yes,0.118741059,No,Maharashtra,Compost
+barley,red,0.7125,0.583333333,0.266666667,Harvest,0.092592593,0.777777778,Yes,0.204577969,No,Karnataka,NPK 20-20-20
+oil seeds,sandy,0.45,0.166666667,0.4,Sowing,0.833333333,0.888888889,Yes,0.945636624,Yes,Andhra Pradesh,Ammonium Sulphate
+millets,loamy,0.575,0.433333333,0.066666667,Flowering,0.933333333,0,Yes,0.183118741,No,Rajasthan,MOP
+wheat,loamy,0.5875,0.3,0.1,Maturity,0.681481481,0.555555556,Yes,0.915593705,No,Madhya Pradesh,MOP
+tobacco,black,0.675,0.716666667,0.35,Harvest,0.822222222,0.166666667,Yes,0.135908441,Yes,Tamil Nadu,NPK 20-20-20
+pulses,sandy,0.4125,0.366666667,0.333333333,Flowering,0.925925926,0.833333333,No,0.339055794,Yes,Maharashtra,Ammonium Sulphate
+oil seeds,loamy,0.05,0.116666667,0.016666667,Maturity,0.625925926,0.111111111,No,0.669527897,Yes,West Bengal,Urea
+paddy,clayey,0.475,0.233333333,0.55,Flowering,0.422222222,0.777777778,No,0.894134478,No,Tamil Nadu,Urea
+barley,black,0.125,0.333333333,0.5,Maturity,0.744444444,0.666666667,Yes,0.854077253,No,Uttar Pradesh,Zinc Sulphate
+oil seeds,sandy,0.4125,0.366666667,0.3,Sowing,0.785185185,0.055555556,No,0.377682403,No,Maharashtra,Compost
+millets,black,0.2625,0.466666667,0.25,Sowing,0.492592593,0.333333333,Yes,0.575107296,Yes,Madhya Pradesh,DAP
+cotton,loamy,0.625,0.75,0.7,Harvest,0.059259259,0.555555556,Yes,0.040057225,No,Punjab,Ammonium Sulphate
+paddy,sandy,0.675,0.4,0.633333333,Flowering,0.477777778,0.111111111,No,0.580829757,No,Madhya Pradesh,Zinc Sulphate
+cotton,clayey,0.9625,0.55,0.183333333,Harvest,0.451851852,0.666666667,No,0.82260372,No,Maharashtra,Zinc Sulphate
+ground nuts,sandy,0.1625,0.216666667,0.016666667,Vegetative,0.088888889,0.555555556,No,0.599427754,Yes,Gujarat,MOP
+ground nuts,sandy,0.4375,0.416666667,0.2,Flowering,0.018518519,0.666666667,No,0.077253219,No,Uttar Pradesh,FYM
+tobacco,clayey,0.7625,0.6,0.966666667,Harvest,0.903703704,0.555555556,Yes,0.464949928,No,Andhra Pradesh,Ammonium Sulphate
+barley,black,0.2125,0.466666667,0.533333333,Harvest,0.251851852,0.222222222,Yes,0.699570815,Yes,Uttar Pradesh,Ammonium Sulphate
+barley,sandy,0.5375,0.383333333,0.383333333,Vegetative,0.466666667,0.277777778,Yes,0.084406295,Yes,Punjab,NPK 20-20-20
+maize,red,0.25,0.683333333,0.583333333,Maturity,0.455555556,0.666666667,No,0.766809728,Yes,Maharashtra,FYM
+paddy,red,0.2625,0.4,0.116666667,Maturity,0.048148148,0.388888889,No,0.480686695,Yes,Gujarat,MOP
+ground nuts,clayey,0.2875,0.083333333,0.266666667,Harvest,0.633333333,0.833333333,Yes,0.072961373,Yes,Maharashtra,DAP
+pulses,black,0.1375,0.3,0.4,Flowering,0.340740741,0.722222222,Yes,0.874105866,No,Gujarat,Urea
+barley,sandy,0.6375,0.65,0.266666667,Maturity,0.462962963,0.611111111,No,0.237482117,Yes,Uttar Pradesh,Zinc Sulphate
+sugarcane,loamy,0.7625,0.5,0.666666667,Harvest,0.696296296,0.111111111,No,0.902718169,No,Madhya Pradesh,MOP
+millets,black,0.6375,0.35,0.116666667,Flowering,0.766666667,1,Yes,0.494992847,Yes,Rajasthan,MOP
+cotton,sandy,0.7625,0.6,0.166666667,Harvest,0.974074074,0.611111111,No,0.608011445,Yes,Karnataka,Compost
+pulses,red,0.4875,0.116666667,0.383333333,Vegetative,0.448148148,0.833333333,No,0.879828326,Yes,Punjab,DAP
+pulses,sandy,0.4375,0.05,0.5,Sowing,0.207407407,0.777777778,Yes,0.971387697,Yes,Uttar Pradesh,DAP
+tobacco,black,0.3625,0.5,0.233333333,Harvest,0.107407407,0.888888889,Yes,0.587982833,No,West Bengal,Compost
+sugarcane,loamy,0.9625,0.816666667,0.2,Maturity,0.918518519,0.055555556,Yes,0.600858369,Yes,Gujarat,MOP
+tobacco,red,0.875,0.466666667,0.9,Vegetative,0.944444444,0.5,Yes,0.459227468,Yes,Gujarat,Urea
+oil seeds,clayey,0.0125,0.4,0.05,Sowing,0.985185185,0.722222222,No,0.101573677,No,Punjab,Urea
+ground nuts,sandy,0.0375,0.05,0.033333333,Maturity,0.707407407,0.5,Yes,0.417739628,Yes,Gujarat,Urea
+ground nuts,clayey,0.0375,0.333333333,0.033333333,Maturity,0.82962963,0.555555556,Yes,0.885550787,Yes,West Bengal,Urea
+pulses,clayey,0.425,0.316666667,0.366666667,Harvest,0.440740741,0.833333333,Yes,0.965665236,Yes,Andhra Pradesh,Zinc Sulphate
+maize,red,0.95,0.633333333,0.683333333,Flowering,0.155555556,0.055555556,No,0.344778255,No,Tamil Nadu,Urea
+cotton,clayey,1,0.616666667,0.883333333,Flowering,0.633333333,0,Yes,0.042918455,Yes,Karnataka,Zinc Sulphate
+tobacco,black,0.925,0.683333333,0.85,Vegetative,0.096296296,0.666666667,Yes,0.628040057,Yes,West Bengal,Compost
+maize,black,0.575,0.533333333,0.616666667,Sowing,0.9,0,No,0.945636624,Yes,Punjab,Urea
+pulses,black,0.375,0.3,0.283333333,Flowering,0.766666667,0.5,No,0.181688126,Yes,Uttar Pradesh,NPK 20-20-20
+sugarcane,black,0.725,0.833333333,0.75,Harvest,0.051851852,0.222222222,Yes,0.82832618,No,West Bengal,Urea
+wheat,sandy,0.5,0.6,0.55,Maturity,0.255555556,0.833333333,No,0.39055794,Yes,Uttar Pradesh,Zinc Sulphate
+cotton,loamy,0.9375,0.933333333,0.166666667,Harvest,0.537037037,0.388888889,No,0.735336195,No,Karnataka,Compost
+millets,red,0.3125,0.433333333,0.616666667,Harvest,0.544444444,0.055555556,No,0.297567954,No,Maharashtra,Ammonium Sulphate
+paddy,sandy,0.375,0.316666667,0.066666667,Flowering,0.803703704,0.444444444,Yes,0.233190272,Yes,Uttar Pradesh,MOP
+paddy,clayey,0.425,0.2,0.35,Sowing,0.925925926,0.444444444,Yes,0.537911302,Yes,Tamil Nadu,Urea
+wheat,sandy,0.7,0.583333333,0.466666667,Harvest,0.103703704,0.222222222,Yes,0.957081545,No,Punjab,FYM
+wheat,clayey,0.5625,0.466666667,0.55,Flowering,0.42962963,0.055555556,No,0.543633763,No,Andhra Pradesh,Ammonium Sulphate
+wheat,red,0.3,0.233333333,0.366666667,Sowing,0.596296296,0.777777778,No,0.685264664,Yes,Maharashtra,Compost
+paddy,sandy,0.3375,0.3,0.533333333,Maturity,0.62962963,0.222222222,No,0.924177396,Yes,Rajasthan,Compost
+oil seeds,loamy,0.1,0.033333333,0.116666667,Flowering,0.422222222,0.111111111,No,0.211731044,Yes,Maharashtra,Urea
+pulses,loamy,0.2375,0.05,0,Sowing,0.559259259,0.055555556,No,0.095851216,Yes,Gujarat,DAP
+millets,sandy,0.675,0.5,0.45,Harvest,0.144444444,0.388888889,No,0.706723891,Yes,Maharashtra,NPK 20-20-20
+cotton,clayey,0.5125,0.8,0.733333333,Flowering,0.785185185,0,Yes,0.028612303,No,Madhya Pradesh,FYM
+oil seeds,red,0.4625,0.333333333,0.35,Harvest,0.111111111,0.833333333,No,0.341917024,Yes,Maharashtra,Ammonium Sulphate
+wheat,sandy,0.65,0.2,0.1,Harvest,0.57037037,0,No,0.620886981,No,Madhya Pradesh,MOP
+ground nuts,sandy,0.075,0.233333333,0.216666667,Flowering,0.440740741,0.611111111,Yes,0.510729614,No,Tamil Nadu,Urea
+pulses,red,0.375,0.333333333,0.4,Maturity,0.351851852,0.888888889,Yes,0.148783977,No,Maharashtra,Ammonium Sulphate
+sugarcane,clayey,0.8125,0.333333333,0.616666667,Harvest,0.314814815,0.277777778,No,0.206008584,No,Gujarat,Urea
+maize,black,0.65,0.483333333,0.516666667,Vegetative,0.533333333,0.555555556,Yes,0.429184549,No,Uttar Pradesh,Zinc Sulphate
+cotton,loamy,0.7125,0.866666667,0.316666667,Maturity,0.840740741,0.611111111,Yes,0.542203147,No,Karnataka,Ammonium Sulphate
+pulses,red,0.05,0.25,0.283333333,Maturity,0.396296296,0.888888889,No,0.080114449,No,Gujarat,Urea
+sugarcane,black,0.675,0.45,0.25,Maturity,0.262962963,0.166666667,No,0.496423462,Yes,Tamil Nadu,Zinc Sulphate
+sugarcane,black,0.3375,0.85,0.416666667,Flowering,0.777777778,0.666666667,No,0.851216023,No,Rajasthan,NPK 20-20-20
+millets,red,0.475,0.533333333,0.45,Vegetative,0.977777778,0.166666667,No,0.203147353,Yes,Uttar Pradesh,Ammonium Sulphate
+wheat,black,0.55,0.466666667,0.233333333,Flowering,0.088888889,0.888888889,Yes,0.288984263,No,Karnataka,Urea
+wheat,red,0.4375,0.533333333,0.266666667,Maturity,0.892592593,0.722222222,No,0.91130186,Yes,Rajasthan,Ammonium Sulphate
+ground nuts,red,0,0.166666667,0.383333333,Harvest,0.477777778,0.222222222,No,0.639484979,Yes,Maharashtra,Urea
+millets,red,0.2875,0.45,0.066666667,Vegetative,0.692592593,0.277777778,No,0.758226037,Yes,Rajasthan,MOP
+millets,loamy,0.275,0.383333333,0,Maturity,0.955555556,0.833333333,Yes,0.078683834,Yes,Punjab,MOP
+tobacco,loamy,0.45,0.633333333,0.533333333,Maturity,0.055555556,0,No,0.749642346,Yes,Andhra Pradesh,MOP
+millets,clayey,0.475,0.5,0.566666667,Sowing,0.07037037,0.944444444,No,0.509298999,No,Tamil Nadu,DAP
+ground nuts,loamy,0.225,0.333333333,0.316666667,Vegetative,0.82962963,0.333333333,Yes,0.496423462,No,Punjab,DAP
+cotton,red,0.425,0.466666667,0.3,Harvest,0.007407407,0.222222222,No,0.363376252,No,Maharashtra,FYM
+wheat,black,0.6,0.35,0.4,Vegetative,0.259259259,0.722222222,Yes,0.190271817,No,Madhya Pradesh,Urea
+oil seeds,black,0.325,0.383333333,0.316666667,Flowering,0.081481481,0.222222222,No,0.832618026,Yes,Madhya Pradesh,Urea
+tobacco,sandy,0.8,0.333333333,0.35,Sowing,0.725925926,0.222222222,No,0.725321888,No,Rajasthan,DAP
+paddy,sandy,0.6125,0.466666667,0.4,Sowing,0.496296296,1,Yes,0.032904149,No,Rajasthan,MOP
+barley,loamy,0.2875,0.316666667,0.266666667,Maturity,0.288888889,0.055555556,Yes,0.939914163,Yes,Punjab,Zinc Sulphate
+paddy,loamy,0.5,0.216666667,0.583333333,Sowing,0.937037037,0.555555556,No,0.241773963,No,Rajasthan,Urea
+barley,black,0.675,0.166666667,0.3,Maturity,0.403703704,0.388888889,Yes,0.696709585,No,West Bengal,MOP
+cotton,sandy,0.4625,0.65,0.683333333,Maturity,0.988888889,0.611111111,No,0.466380544,Yes,Rajasthan,Zinc Sulphate
+barley,red,0.675,0.616666667,0.35,Flowering,0.3,0.888888889,No,0.557939914,No,Punjab,MOP
+ground nuts,loamy,0.3875,0.166666667,0.3,Flowering,0.107407407,0.666666667,No,0.144492132,No,Rajasthan,DAP
+pulses,red,0.4625,0.266666667,0.066666667,Flowering,0.896296296,0.833333333,No,0.187410587,Yes,Punjab,MOP
+pulses,clayey,0.35,0.066666667,0.233333333,Sowing,0.548148148,0.277777778,Yes,0.798283262,Yes,Madhya Pradesh,DAP
+cotton,sandy,0.6625,0.983333333,0.366666667,Sowing,0.966666667,0.5,No,0.620886981,No,Rajasthan,Ammonium Sulphate
+oil seeds,black,0.425,0.15,0,Flowering,0.485185185,0.833333333,Yes,0.459227468,No,Rajasthan,DAP
+millets,clayey,0.2,0.216666667,0.6,Harvest,0.103703704,0.611111111,No,0.397711016,No,Andhra Pradesh,MOP
+cotton,loamy,0.5625,0.483333333,0.983333333,Maturity,0.692592593,0,Yes,0.278969957,No,Tamil Nadu,Ammonium Sulphate
+ground nuts,black,0.325,0.216666667,0.183333333,Harvest,0.214814815,0.555555556,No,0.334763948,Yes,Gujarat,Zinc Sulphate
+maize,sandy,0.925,0.466666667,0.833333333,Harvest,0.437037037,0.944444444,No,0.078683834,No,Rajasthan,DAP
+barley,sandy,0.5875,0.616666667,0.516666667,Harvest,0.051851852,0.555555556,Yes,0.732474964,No,Punjab,Zinc Sulphate
+cotton,red,0.7625,0.5,0.8,Maturity,0.037037037,0.111111111,Yes,0.470672389,Yes,Andhra Pradesh,FYM
+maize,black,0.2875,0.383333333,0.283333333,Vegetative,0.67037037,0.111111111,No,0.52360515,Yes,Uttar Pradesh,Urea
+oil seeds,red,0.3875,0.333333333,0.4,Vegetative,0.740740741,0.333333333,Yes,0.718168813,Yes,Andhra Pradesh,Compost
+tobacco,sandy,0.9125,0.6,0.433333333,Maturity,0.507407407,0.333333333,No,0.298998569,Yes,Andhra Pradesh,Urea
+tobacco,red,0.7125,0.466666667,0.583333333,Maturity,0.055555556,0.388888889,Yes,0.277539342,Yes,Andhra Pradesh,Compost
+ground nuts,black,0.3875,0.183333333,0.466666667,Flowering,0.222222222,0.111111111,No,0.193133047,No,West Bengal,Zinc Sulphate
+barley,loamy,0.375,0.383333333,0.566666667,Harvest,0.866666667,0.388888889,Yes,0.311874106,Yes,Andhra Pradesh,Zinc Sulphate
+wheat,black,0.2375,0.55,0.466666667,Maturity,0.066666667,0.611111111,Yes,0.927038627,Yes,Tamil Nadu,NPK 20-20-20
+ground nuts,sandy,0.325,0.05,0.016666667,Harvest,0.985185185,0,No,0.623748212,Yes,Gujarat,DAP
+wheat,sandy,0.75,0.4,0.05,Vegetative,0.055555556,0.722222222,Yes,0.185979971,Yes,Andhra Pradesh,MOP
+barley,sandy,0.2125,0.516666667,0.3,Harvest,0.881481481,0.166666667,No,0.981402003,No,Rajasthan,DAP
+sugarcane,clayey,0.475,0.616666667,0.633333333,Maturity,0.82962963,0.611111111,No,0.25751073,Yes,Madhya Pradesh,FYM
+tobacco,red,0.35,0.883333333,0.5,Sowing,0.155555556,0.333333333,Yes,0.224606581,Yes,Andhra Pradesh,MOP
+pulses,clayey,0.3625,0.333333333,0.033333333,Vegetative,0.266666667,0.055555556,Yes,0.356223176,Yes,Tamil Nadu,MOP
+tobacco,sandy,0.275,0.566666667,0.683333333,Flowering,0.82962963,0.111111111,No,0.244635193,No,Madhya Pradesh,MOP
+ground nuts,clayey,0.4125,0.433333333,0.3,Vegetative,0.692592593,0.277777778,No,0.422031474,Yes,Karnataka,MOP
+cotton,black,0.75,0.833333333,0.25,Harvest,0.811111111,0.166666667,No,0.856938484,Yes,West Bengal,NPK 20-20-20
+oil seeds,black,0.35,0.383333333,0.15,Sowing,0.544444444,0.333333333,No,0.258941345,Yes,Gujarat,MOP
+paddy,black,0.5,0.55,0.533333333,Sowing,0.651851852,0.888888889,No,0.297567954,No,West Bengal,Ammonium Sulphate
+millets,sandy,0.2625,0.616666667,0.25,Harvest,0.644444444,0.222222222,No,0.925608011,No,Andhra Pradesh,Zinc Sulphate
+wheat,sandy,0.6875,0.5,0.25,Maturity,0.596296296,1,Yes,0.615164521,No,Rajasthan,Urea
+ground nuts,clayey,0.4875,0.133333333,0.3,Maturity,0.944444444,0.5,Yes,0.399141631,Yes,Tamil Nadu,DAP
+pulses,sandy,0.4,0.133333333,0.083333333,Vegetative,0.803703704,0.222222222,No,0.895565093,No,West Bengal,DAP
+wheat,clayey,0.525,0.516666667,0.083333333,Vegetative,0.166666667,0.277777778,Yes,0.56509299,Yes,Rajasthan,MOP
+cotton,sandy,0.275,0.583333333,0.833333333,Vegetative,0.251851852,0.888888889,No,0.43490701,No,Karnataka,Zinc Sulphate
+paddy,black,0.65,0.65,0.583333333,Sowing,0.948148148,0.277777778,Yes,0.201716738,Yes,Karnataka,Ammonium Sulphate
+cotton,clayey,0.3,0.816666667,0.966666667,Maturity,0.277777778,1,No,0.108726753,Yes,Andhra Pradesh,Compost
+cotton,loamy,0.75,0.65,0.4,Harvest,0.525925926,0.722222222,No,0.855507868,No,Gujarat,Urea
+ground nuts,sandy,0.4625,0.333333333,0.433333333,Harvest,0.137037037,0.777777778,Yes,0.454935622,Yes,Madhya Pradesh,NPK 20-20-20
+barley,loamy,0.3625,0.166666667,0.233333333,Maturity,0.47037037,0.111111111,No,0.932761087,No,Punjab,Ammonium Sulphate
+ground nuts,black,0.0875,0.116666667,0.266666667,Harvest,0,0.166666667,Yes,0.82832618,Yes,Rajasthan,Urea
+ground nuts,sandy,0.35,0.483333333,0.483333333,Flowering,0.37037037,0.5,No,0.519313305,No,West Bengal,Urea
+pulses,red,0.2625,0.35,0.4,Flowering,0.022222222,0.222222222,Yes,0.9527897,Yes,Uttar Pradesh,Compost
+cotton,red,0.775,0.616666667,0.783333333,Harvest,0.618518519,0,No,0.17453505,Yes,Tamil Nadu,Zinc Sulphate
+paddy,red,0.475,0.666666667,0.366666667,Flowering,0.796296296,0.888888889,Yes,0.270386266,Yes,Madhya Pradesh,Urea
+barley,loamy,0.3875,0.366666667,0.066666667,Harvest,1,0.666666667,No,0.600858369,No,Punjab,MOP
+ground nuts,sandy,0.4375,0.433333333,0.15,Harvest,0.759259259,0.333333333,No,0.680972818,Yes,Tamil Nadu,MOP
+oil seeds,black,0.475,0.083333333,0.033333333,Maturity,0.992592593,0.111111111,Yes,0.480686695,No,West Bengal,DAP
+cotton,black,0.675,0.966666667,0.366666667,Vegetative,0.259259259,0.833333333,Yes,0.327610873,Yes,Andhra Pradesh,Urea
+barley,black,0.1875,0.466666667,0.366666667,Flowering,0.766666667,0.888888889,No,0.031473534,Yes,Gujarat,Zinc Sulphate
+sugarcane,loamy,0.3625,0.533333333,0.816666667,Maturity,0.559259259,0,Yes,0.61230329,Yes,Maharashtra,Ammonium Sulphate
+millets,loamy,0.625,0.533333333,0.033333333,Vegetative,0.603703704,0.388888889,Yes,0.795422031,Yes,Uttar Pradesh,MOP
+oil seeds,sandy,0.4625,0.483333333,0.3,Harvest,0.277777778,0.277777778,Yes,0.586552217,No,Gujarat,Ammonium Sulphate
+wheat,black,0.6,0.4,0.516666667,Sowing,0.507407407,0.111111111,Yes,0.512160229,Yes,West Bengal,NPK 20-20-20
+cotton,black,0.65,0.683333333,0.233333333,Vegetative,0.674074074,0.611111111,No,0.110157368,Yes,Uttar Pradesh,Zinc Sulphate
+millets,clayey,0.35,0.2,0.116666667,Vegetative,0.307407407,0.444444444,Yes,0.373390558,No,West Bengal,MOP
+cotton,clayey,0.6375,0.866666667,0.85,Sowing,0.077777778,0.944444444,Yes,0.125894134,Yes,West Bengal,DAP
+millets,red,0.4125,0.533333333,0.366666667,Flowering,0.014814815,0.388888889,No,0.818311874,Yes,Andhra Pradesh,Compost
+tobacco,loamy,0.3,0.7,0.966666667,Maturity,0.603703704,0.5,No,0.071530758,No,Uttar Pradesh,NPK 20-20-20
+cotton,clayey,0.525,1,0.466666667,Maturity,0.211111111,0.166666667,Yes,0.686695279,Yes,Maharashtra,Urea
+barley,black,0.1375,0.316666667,0.216666667,Flowering,0.177777778,0.388888889,No,0.278969957,Yes,Uttar Pradesh,Urea
+sugarcane,clayey,0.4625,0.716666667,0.666666667,Maturity,0.551851852,0.5,No,0.668097282,No,Punjab,DAP
+cotton,loamy,0.6375,0.5,0.483333333,Flowering,0.737037037,0.555555556,No,0.414878398,No,Punjab,Zinc Sulphate
+cotton,clayey,0.825,0.366666667,0.733333333,Vegetative,0.155555556,0.944444444,No,0.120171674,Yes,Karnataka,Zinc Sulphate
+barley,black,0.375,0.35,0.05,Flowering,0.77037037,0.833333333,Yes,0.486409156,Yes,Rajasthan,MOP
+oil seeds,loamy,0.2875,0.066666667,0.383333333,Harvest,0.944444444,0.277777778,Yes,0.86695279,Yes,Gujarat,DAP
+wheat,sandy,0.7125,0.233333333,0.25,Sowing,0.348148148,0.333333333,No,0.855507868,Yes,Tamil Nadu,Zinc Sulphate
+pulses,black,0,0.433333333,0.416666667,Maturity,0.544444444,0.777777778,Yes,0.668097282,No,West Bengal,Urea
+oil seeds,sandy,0.3875,0.466666667,0.4,Maturity,0.437037037,0.166666667,Yes,0.537911302,No,Tamil Nadu,DAP
+pulses,red,0.2625,0.433333333,0.466666667,Harvest,0.237037037,0,Yes,0.084406295,No,Madhya Pradesh,DAP
+pulses,sandy,0.0125,0.416666667,0.116666667,Harvest,0.585185185,0.222222222,No,0.882689557,No,West Bengal,Urea
+millets,sandy,0.275,0.533333333,0.433333333,Flowering,0.111111111,0.944444444,Yes,1,No,Tamil Nadu,Ammonium Sulphate
+maize,loamy,0.775,0.766666667,0.283333333,Sowing,0.988888889,0.277777778,Yes,0.656652361,No,Maharashtra,FYM
+tobacco,sandy,0.325,0.366666667,0.316666667,Vegetative,0.085185185,0.277777778,Yes,0.493562232,Yes,West Bengal,Compost
+paddy,sandy,0.3125,0.35,0.233333333,Flowering,0.681481481,0,Yes,0.595135908,Yes,West Bengal,Urea
+tobacco,black,0.35,0.75,0.8,Maturity,0.174074074,0.333333333,No,0.852646638,No,West Bengal,DAP
+wheat,loamy,0.5375,0.266666667,0.1,Maturity,0.622222222,0.666666667,No,0.871244635,Yes,Gujarat,MOP
+barley,clayey,0.7375,0.4,0.083333333,Flowering,0.292592593,0.444444444,No,0.882689557,Yes,Maharashtra,MOP
+maize,clayey,0.85,0.666666667,0.616666667,Flowering,0.155555556,1,Yes,0.13304721,Yes,Punjab,Urea
+oil seeds,loamy,0.0125,0.333333333,0.25,Flowering,0.462962963,0.166666667,No,0.416309013,No,Punjab,Urea
+barley,red,0.7375,0.516666667,0.6,Sowing,0.381481481,0.166666667,Yes,0.246065808,No,Karnataka,FYM
+sugarcane,clayey,0.4125,0.633333333,0.183333333,Sowing,0.962962963,0.777777778,No,0.61230329,No,Andhra Pradesh,FYM
+barley,loamy,0.625,0.516666667,0.533333333,Vegetative,0.211111111,0.444444444,Yes,0.045779685,No,Andhra Pradesh,Zinc Sulphate
+wheat,loamy,0.125,0.666666667,0.083333333,Sowing,0.285185185,0.944444444,No,0.460658083,No,Tamil Nadu,MOP
+tobacco,black,0.85,0.383333333,0.833333333,Sowing,0.744444444,1,Yes,0.927038627,No,Gujarat,Ammonium Sulphate
+ground nuts,clayey,0,0.25,0.416666667,Sowing,0.851851852,0.388888889,No,0.347639485,No,Rajasthan,Urea
+tobacco,black,0.95,0.733333333,0.466666667,Vegetative,0.214814815,0.666666667,No,0.320457797,No,Maharashtra,Compost
+ground nuts,clayey,0.4125,0.3,0.45,Vegetative,0.681481481,1,Yes,0.888412017,Yes,West Bengal,Compost
+wheat,black,0.6875,0.483333333,0.25,Flowering,0.57037037,0.5,Yes,0.270386266,No,Punjab,Urea
+paddy,clayey,0.3875,0.2,0.15,Flowering,0.188888889,0.333333333,No,0.688125894,Yes,Punjab,MOP
+barley,sandy,0.5125,0.25,0.65,Vegetative,0.722222222,0.333333333,Yes,0.057224607,Yes,Tamil Nadu,Compost
+sugarcane,red,0.675,0.55,0.216666667,Maturity,0.892592593,0.388888889,No,0.533619456,No,West Bengal,MOP
+maize,red,0.9875,0.35,0.833333333,Harvest,0.688888889,0.444444444,No,0.73962804,Yes,Punjab,Ammonium Sulphate
+millets,sandy,0.4875,0.433333333,0.166666667,Flowering,0.048148148,0.444444444,No,0.616595136,Yes,Maharashtra,DAP
+ground nuts,loamy,0.25,0.383333333,0.3,Maturity,0.848148148,0.166666667,No,0.258941345,No,Gujarat,MOP
+millets,red,0.5125,0.25,0.383333333,Flowering,0.922222222,0.666666667,Yes,0.137339056,No,Karnataka,FYM
+cotton,black,0.7625,0.8,0.45,Sowing,0.140740741,0.444444444,Yes,0.12732475,Yes,Rajasthan,MOP
+sugarcane,sandy,0.35,0.933333333,0.45,Vegetative,0.037037037,1,Yes,0.839771102,No,Uttar Pradesh,Urea
+wheat,loamy,0.3875,0.233333333,0.666666667,Sowing,0.92962963,0.611111111,No,0.200286123,No,Karnataka,Ammonium Sulphate
+pulses,loamy,0.4,0.266666667,0,Flowering,0.759259259,0.055555556,No,0.210300429,No,Punjab,MOP
+sugarcane,red,0.625,0.45,0.266666667,Maturity,0.918518519,0.611111111,Yes,0.690987124,Yes,Andhra Pradesh,FYM
+wheat,sandy,0.4,0.2,0.133333333,Sowing,0.955555556,0.611111111,No,0.223175966,Yes,Rajasthan,MOP
+tobacco,clayey,0.3125,0.5,0.55,Maturity,0.207407407,0.5,Yes,0.078683834,Yes,Gujarat,Ammonium Sulphate
+maize,black,0.6375,0.433333333,1,Maturity,0.814814815,0.444444444,No,0.08583691,Yes,Punjab,Zinc Sulphate
+sugarcane,clayey,0.925,0.5,0.85,Sowing,0.359259259,0.444444444,No,0.060085837,No,Uttar Pradesh,Zinc Sulphate
+cotton,sandy,0.3,0.916666667,0.216666667,Harvest,0.774074074,0.5,No,0.978540773,No,Uttar Pradesh,Compost
+paddy,loamy,0.4125,0.466666667,0.333333333,Harvest,0.759259259,0.333333333,Yes,0.3018598,Yes,Tamil Nadu,DAP
+millets,clayey,0.2875,0.65,0.666666667,Vegetative,0.985185185,0.388888889,No,0.34620887,Yes,Punjab,DAP
+paddy,clayey,0.55,0.466666667,0.3,Harvest,0.796296296,0.222222222,Yes,0.276108727,Yes,Andhra Pradesh,MOP
+tobacco,loamy,0.9625,0.65,0.416666667,Flowering,0.777777778,0.444444444,No,0.73962804,Yes,Maharashtra,Urea
+millets,red,0.225,0.5,0.616666667,Flowering,0.762962963,0.777777778,Yes,0.195994278,No,West Bengal,NPK 20-20-20
+cotton,clayey,0.925,0.616666667,0.366666667,Vegetative,0.485185185,0.611111111,Yes,0.882689557,No,Punjab,DAP
+millets,clayey,0.65,0.466666667,0.416666667,Flowering,0.896296296,0.166666667,Yes,0.181688126,No,Uttar Pradesh,NPK 20-20-20
+barley,loamy,0.275,0.566666667,0.416666667,Maturity,0.488888889,0.277777778,Yes,0.360515021,No,Tamil Nadu,FYM
+millets,black,0.375,0.466666667,0.616666667,Maturity,0.085185185,0.055555556,No,0.596566524,No,Karnataka,NPK 20-20-20
+barley,clayey,0.7125,0.333333333,0.416666667,Maturity,0.87037037,0.777777778,Yes,0.655221745,Yes,Madhya Pradesh,Urea
+pulses,red,0.0625,0.25,0.45,Harvest,0.566666667,0.611111111,Yes,0.891273247,No,Madhya Pradesh,Urea
+tobacco,red,0.5125,0.783333333,0.416666667,Flowering,0.4,0.222222222,Yes,0.120171674,Yes,Uttar Pradesh,Compost
+millets,sandy,0.5375,0.2,0.166666667,Vegetative,0.059259259,0.555555556,No,0.26037196,No,Gujarat,NPK 20-20-20
+wheat,sandy,0.65,0.55,0.416666667,Vegetative,0.318518519,0.944444444,No,0.180257511,No,Karnataka,DAP
+pulses,clayey,0.225,0.066666667,0.45,Sowing,0.081481481,0.277777778,Yes,0.82832618,No,Gujarat,DAP
+oil seeds,clayey,0.075,0.283333333,0.483333333,Sowing,0.240740741,0.888888889,Yes,0.749642346,No,West Bengal,Urea
+sugarcane,red,0.55,0.8,0.516666667,Sowing,0.292592593,0.166666667,No,0.052932761,Yes,Gujarat,DAP
+wheat,loamy,0.3375,0.366666667,0.5,Flowering,0.192592593,0.666666667,Yes,0.545064378,Yes,West Bengal,NPK 20-20-20
+tobacco,clayey,0.3125,0.733333333,0.8,Sowing,0.5,0.277777778,No,0.396280401,Yes,West Bengal,NPK 20-20-20
+millets,sandy,0.1375,0.416666667,0.55,Sowing,0.17037037,0.333333333,Yes,0.185979971,No,Andhra Pradesh,Urea
+wheat,black,0.35,0.666666667,0.416666667,Harvest,0.17037037,0.277777778,No,0.977110157,No,Gujarat,MOP
+pulses,red,0.225,0.5,0,Flowering,0.507407407,0.333333333,No,0.065808298,Yes,West Bengal,MOP
+ground nuts,loamy,0.3,0.483333333,0.366666667,Vegetative,0.477777778,0.888888889,Yes,0.091559371,Yes,Karnataka,Ammonium Sulphate
+barley,red,0.125,0.2,0.116666667,Flowering,0.62962963,0.333333333,No,0.341917024,Yes,Andhra Pradesh,MOP
+sugarcane,black,0.7875,0.433333333,0.85,Sowing,0.440740741,0.944444444,No,0.483547926,Yes,West Bengal,NPK 20-20-20
+oil seeds,clayey,0.375,0,0.483333333,Sowing,0.27037037,0.722222222,Yes,0.904148784,No,Maharashtra,DAP
+cotton,clayey,0.9125,1,0.8,Vegetative,0.711111111,0,No,0.628040057,Yes,Maharashtra,Urea
+sugarcane,sandy,0.8,0.466666667,0.6,Harvest,0.103703704,0.333333333,Yes,0.765379113,No,Tamil Nadu,Ammonium Sulphate
+oil seeds,black,0,0.383333333,0.1,Harvest,0.907407407,0.277777778,No,0.267525036,Yes,Tamil Nadu,Urea
+pulses,clayey,0.125,0.25,0.45,Maturity,0.566666667,0.333333333,No,0.638054363,No,Uttar Pradesh,Compost
+cotton,loamy,0.725,0.4,0.366666667,Harvest,0.185185185,0.888888889,No,0.071530758,No,Rajasthan,Ammonium Sulphate
+pulses,black,0,0.383333333,0.333333333,Flowering,0.437037037,0,No,0.809728183,Yes,Uttar Pradesh,Urea
+cotton,black,0.8625,0.666666667,0.9,Harvest,0.011111111,0.388888889,No,0.723891273,No,Uttar Pradesh,Ammonium Sulphate
+barley,sandy,0.6125,0.166666667,0.433333333,Flowering,0.151851852,0.055555556,Yes,0.494992847,No,Uttar Pradesh,FYM
+tobacco,black,0.775,0.466666667,0.616666667,Flowering,0.062962963,0.611111111,Yes,0.374821173,Yes,Andhra Pradesh,Ammonium Sulphate
+maize,red,1,0.7,0.833333333,Harvest,0.685185185,0.555555556,No,0.113018598,No,Uttar Pradesh,FYM
+pulses,red,0.1,0.316666667,0.333333333,Sowing,0.9,1,No,0.738197425,Yes,Karnataka,Urea
+ground nuts,sandy,0.275,0.25,0,Maturity,0.666666667,0.222222222,Yes,0.151645207,Yes,Karnataka,MOP
+millets,clayey,0.5875,0.35,0.133333333,Vegetative,0.174074074,0.5,No,0.86695279,No,Maharashtra,MOP
+millets,sandy,0.4,0.2,0.1,Harvest,0.603703704,0.666666667,No,0.929899857,Yes,Punjab,MOP
+oil seeds,black,0.4375,0.183333333,0.5,Harvest,0.722222222,0.5,No,0.836909871,Yes,Rajasthan,Ammonium Sulphate
+barley,loamy,0.3125,0.533333333,0.466666667,Sowing,0.433333333,0.333333333,No,0.13018598,Yes,West Bengal,MOP
+maize,black,1,0.766666667,0.3,Flowering,0.67037037,0.944444444,No,0.849785408,Yes,Uttar Pradesh,MOP
+paddy,black,0.6125,0.5,0.583333333,Vegetative,0.792592593,0.5,Yes,0.419170243,Yes,Punjab,NPK 20-20-20
+barley,sandy,0.725,0.616666667,0.033333333,Maturity,0.414814815,1,No,0.884120172,No,Maharashtra,MOP
+wheat,black,0.4375,0.416666667,0.416666667,Flowering,0.233333333,0.777777778,No,0.721030043,Yes,Andhra Pradesh,Urea
+millets,clayey,0.1625,0.466666667,0.266666667,Harvest,0.351851852,0.166666667,No,0.831187411,Yes,Punjab,FYM
+sugarcane,loamy,0.7,0.733333333,0.25,Flowering,0.592592593,0.388888889,Yes,0.580829757,Yes,Uttar Pradesh,Zinc Sulphate
+sugarcane,red,0.85,0.6,0.883333333,Flowering,0.503703704,0.777777778,Yes,0.73676681,No,Maharashtra,Ammonium Sulphate
+maize,black,0.325,0.733333333,0.75,Sowing,0.251851852,0.222222222,Yes,0.138769671,No,Tamil Nadu,Urea
+cotton,sandy,0.4375,0.566666667,0.95,Vegetative,0.088888889,0.833333333,Yes,0.536480687,No,Gujarat,Zinc Sulphate
+millets,loamy,0.3625,0.45,0.516666667,Vegetative,0.362962963,0.611111111,Yes,0.871244635,Yes,Karnataka,Compost
+millets,black,0.6875,0.25,0.133333333,Flowering,0.951851852,0.944444444,Yes,0.296137339,No,Maharashtra,MOP
+ground nuts,red,0.125,0.4,0.283333333,Sowing,0.492592593,0.611111111,Yes,0.206008584,No,Gujarat,MOP
+millets,sandy,0.5375,0.466666667,0.233333333,Maturity,0.444444444,0.777777778,Yes,0.529327611,Yes,Karnataka,Urea
+sugarcane,clayey,0.4875,0.65,0.183333333,Flowering,0.225925926,0.111111111,Yes,0.861230329,Yes,Tamil Nadu,Urea
+ground nuts,sandy,0.075,0.466666667,0.366666667,Vegetative,0.707407407,0.333333333,No,0.772532189,No,Karnataka,Urea
+tobacco,loamy,0.9,0.333333333,0.55,Sowing,0.37037037,0.444444444,No,0.138769671,Yes,Punjab,Urea
+cotton,red,0.3625,0.916666667,0.983333333,Vegetative,0.111111111,0.611111111,No,0.020028612,No,West Bengal,NPK 20-20-20
+oil seeds,clayey,0.4,0.316666667,0,Maturity,0.081481481,0.166666667,Yes,0.929899857,No,Andhra Pradesh,MOP
+maize,black,0.95,0.75,0.566666667,Maturity,0.303703704,0.166666667,Yes,0.556509299,No,Andhra Pradesh,MOP
+barley,red,0.425,0.416666667,0.183333333,Maturity,0.137037037,0.944444444,No,0.184549356,Yes,Gujarat,Urea
+oil seeds,red,0.2125,0.083333333,0.233333333,Vegetative,0.785185185,0.166666667,No,0.718168813,Yes,Uttar Pradesh,DAP
+wheat,clayey,0.6875,0.566666667,0.483333333,Flowering,0.97037037,0,No,0.483547926,No,Andhra Pradesh,Compost
+tobacco,red,0.775,0.35,0.8,Harvest,0.662962963,0.833333333,No,0.165951359,Yes,Tamil Nadu,Ammonium Sulphate
+barley,red,0.7,0.183333333,0.483333333,Vegetative,0.42962963,0.166666667,Yes,0.168812589,No,Punjab,MOP
+paddy,red,0.3125,0.233333333,0.4,Sowing,0.722222222,0.5,No,0.194563662,Yes,Andhra Pradesh,FYM
+ground nuts,clayey,0.1,0.1,0.133333333,Vegetative,0.033333333,0.5,No,0.313304721,No,Uttar Pradesh,Urea
+tobacco,red,0.9375,0.816666667,0.366666667,Harvest,0.788888889,0.611111111,Yes,0.474964235,No,Maharashtra,MOP
+sugarcane,red,0.475,0.783333333,0.966666667,Maturity,0.274074074,0.666666667,Yes,0.702432046,No,Tamil Nadu,DAP
+ground nuts,sandy,0.1875,0.116666667,0.266666667,Flowering,0.874074074,0.944444444,Yes,0.709585122,Yes,West Bengal,DAP
+cotton,clayey,0.425,0.766666667,0.266666667,Harvest,0.422222222,0.111111111,Yes,0.361945637,No,Madhya Pradesh,Ammonium Sulphate
+oil seeds,clayey,0.0875,0.5,0.183333333,Harvest,0.714814815,0.444444444,No,0.08583691,Yes,Uttar Pradesh,Urea
+cotton,clayey,0.7125,0.533333333,0.866666667,Flowering,0.085185185,0.944444444,Yes,0.513590844,Yes,Maharashtra,Urea
+maize,black,0.5875,0.733333333,0.5,Maturity,0.818518519,0.5,No,0.919885551,No,Gujarat,Zinc Sulphate
+barley,black,0.1625,0.533333333,0.166666667,Vegetative,0.051851852,0,No,0.904148784,Yes,Madhya Pradesh,Ammonium Sulphate
+wheat,clayey,0.6625,0.333333333,0.166666667,Flowering,0.492592593,1,Yes,0.334763948,Yes,Gujarat,DAP
+wheat,black,0.4125,0.416666667,0.083333333,Vegetative,0.2,0.5,Yes,0.101573677,Yes,Andhra Pradesh,MOP
+oil seeds,loamy,0.35,0.25,0.133333333,Maturity,0.240740741,0.944444444,No,0.507868383,Yes,Andhra Pradesh,MOP
+maize,loamy,0.8375,0.733333333,0.333333333,Flowering,0.466666667,0.111111111,Yes,0.223175966,Yes,Gujarat,MOP
+barley,black,0.1375,0.566666667,0.033333333,Flowering,0.996296296,0.444444444,Yes,0.43204578,No,Uttar Pradesh,MOP
+ground nuts,black,0.45,0.15,0.066666667,Harvest,0.22962963,0.333333333,No,0.861230329,No,Rajasthan,DAP
+maize,sandy,0.9,0.35,0.616666667,Harvest,0.807407407,0.388888889,No,0.341917024,No,Gujarat,MOP
+wheat,sandy,0.3,0.55,0.133333333,Maturity,0.025925926,0,No,0.987124464,Yes,Andhra Pradesh,MOP
+pulses,red,0.3375,0.433333333,0.4,Harvest,0.237037037,1,Yes,0.934191702,Yes,Uttar Pradesh,MOP
+pulses,red,0.1,0.116666667,0.35,Sowing,0.77037037,0,No,0.909871245,No,West Bengal,Urea
+ground nuts,black,0.325,0.3,0.383333333,Vegetative,0.474074074,0.555555556,Yes,0.610872675,No,Andhra Pradesh,Ammonium Sulphate
+millets,black,0.375,0.433333333,0.566666667,Vegetative,0.659259259,0.444444444,No,0.403433476,Yes,Gujarat,MOP
+wheat,red,0.3875,0.6,0.566666667,Vegetative,0.781481481,0.222222222,Yes,0.841201717,No,West Bengal,FYM
+oil seeds,black,0.3125,0.166666667,0.033333333,Flowering,0.296296296,0.555555556,Yes,0.17739628,No,Madhya Pradesh,MOP
+maize,black,0.5875,0.433333333,0.633333333,Harvest,0.2,0.222222222,No,0.440629471,No,Madhya Pradesh,Ammonium Sulphate
+tobacco,red,0.9125,0.716666667,0.766666667,Flowering,0.674074074,0.611111111,Yes,0.719599428,Yes,Andhra Pradesh,Compost
+barley,red,0.225,0.5,0.233333333,Harvest,0.303703704,0.055555556,Yes,0.211731044,No,Maharashtra,NPK 20-20-20
+millets,clayey,0.6125,0.516666667,0.65,Maturity,0.174074074,0.888888889,No,0.895565093,No,Uttar Pradesh,FYM
+millets,sandy,0.5,0.483333333,0.25,Vegetative,0.437037037,0.388888889,No,0.829756795,No,West Bengal,FYM
+wheat,clayey,0.525,0.283333333,0.55,Vegetative,0.318518519,0.722222222,Yes,0.001430615,No,West Bengal,FYM
+sugarcane,red,0.65,0.733333333,0.216666667,Sowing,0.77037037,0.666666667,Yes,0.949928469,Yes,West Bengal,Compost
+tobacco,clayey,0.625,1,0.816666667,Sowing,0.277777778,0.555555556,Yes,0.889842632,No,Punjab,FYM
+pulses,red,0.175,0.066666667,0.45,Vegetative,0.97037037,0.444444444,No,0.198855508,No,Madhya Pradesh,DAP
+millets,clayey,0.4875,0.216666667,0.25,Harvest,0.666666667,0.111111111,Yes,0.115879828,Yes,Karnataka,Ammonium Sulphate
+oil seeds,loamy,0.425,0.333333333,0.266666667,Flowering,0.392592593,1,No,0.907010014,No,Rajasthan,FYM
+paddy,red,0.425,0.3,0.516666667,Sowing,0.185185185,0.388888889,Yes,0.278969957,No,Andhra Pradesh,Compost
+barley,black,0.1375,0.466666667,0.15,Vegetative,0.474074074,0.444444444,No,0.185979971,No,Madhya Pradesh,MOP
+paddy,red,0.675,0.366666667,0.4,Sowing,0.585185185,0.333333333,Yes,0.895565093,Yes,Karnataka,Zinc Sulphate
+barley,red,0.725,0.266666667,0.5,Flowering,0.637037037,0.166666667,Yes,0.135908441,No,Andhra Pradesh,Zinc Sulphate
+wheat,black,0.5125,0.216666667,0.133333333,Harvest,0.103703704,0.333333333,No,0.932761087,No,Gujarat,MOP
+paddy,loamy,0.1625,0.416666667,0.083333333,Vegetative,0.959259259,0,No,0.731044349,No,Gujarat,MOP
+ground nuts,black,0.2875,0.1,0.433333333,Harvest,0.551851852,0.222222222,Yes,0.718168813,No,Maharashtra,DAP
+sugarcane,clayey,0.375,0.633333333,0.933333333,Harvest,0.651851852,0.333333333,No,0.751072961,Yes,Punjab,MOP
+cotton,black,0.3375,0.65,0.6,Harvest,0.511111111,0.111111111,No,0.39341917,No,Andhra Pradesh,Ammonium Sulphate
+tobacco,loamy,0.3375,0.9,0.533333333,Flowering,0.414814815,0.5,Yes,0.217453505,Yes,Andhra Pradesh,Ammonium Sulphate
+wheat,clayey,0.4375,0.433333333,0.45,Sowing,0.274074074,0.944444444,Yes,0.824034335,Yes,Andhra Pradesh,MOP
+barley,red,0.6625,0.233333333,0.183333333,Maturity,0.466666667,1,No,0.615164521,Yes,Tamil Nadu,Ammonium Sulphate
+pulses,clayey,0.075,0.383333333,0.2,Vegetative,0.014814815,0.5,Yes,0.937052933,No,Uttar Pradesh,Urea
+pulses,loamy,0.375,0.45,0.35,Harvest,0.603703704,0.777777778,Yes,0.343347639,No,Maharashtra,NPK 20-20-20
+pulses,red,0.45,0.333333333,0.116666667,Vegetative,0.625925926,0.5,No,0.423462089,Yes,Andhra Pradesh,MOP
+pulses,loamy,0.2125,0.216666667,0.15,Sowing,0.566666667,0.111111111,Yes,0.811158798,No,Andhra Pradesh,MOP
+sugarcane,black,0.6625,0.583333333,0.5,Flowering,0.114814815,0.388888889,No,0.091559371,No,Rajasthan,Zinc Sulphate
+sugarcane,loamy,0.375,0.366666667,0.683333333,Vegetative,0.259259259,0.166666667,Yes,0.43204578,No,Uttar Pradesh,MOP
+sugarcane,red,0.275,0.4,0.45,Flowering,0.822222222,0.944444444,No,0.915593705,Yes,Andhra Pradesh,Compost
+barley,red,0.725,0.2,0.233333333,Flowering,0.97037037,0.722222222,No,0.752503577,No,Uttar Pradesh,MOP
+pulses,loamy,0.0625,0.083333333,0.05,Harvest,0.355555556,0.888888889,No,0.17167382,No,Uttar Pradesh,Urea
+cotton,loamy,0.3375,0.85,0.616666667,Harvest,0.244444444,0.055555556,No,0.659513591,Yes,Karnataka,MOP
+sugarcane,clayey,0.3125,0.416666667,0.733333333,Harvest,0.148148148,0.333333333,Yes,0.391988555,Yes,Uttar Pradesh,Urea
+millets,red,0.55,0.55,0.633333333,Harvest,0.67037037,1,No,0.6981402,No,Maharashtra,MOP
+pulses,black,0.1125,0.4,0.2,Flowering,0.792592593,0.777777778,No,0.935622318,Yes,Madhya Pradesh,Urea
+oil seeds,black,0.2125,0.4,0.033333333,Vegetative,0.933333333,0.166666667,Yes,0.595135908,Yes,Tamil Nadu,MOP
+barley,clayey,0.45,0.516666667,0.65,Harvest,0.759259259,0.833333333,Yes,0.552217454,No,Andhra Pradesh,Urea
+millets,sandy,0.6375,0.283333333,0.25,Harvest,0.922222222,0.055555556,Yes,0.223175966,Yes,Andhra Pradesh,NPK 20-20-20
+millets,sandy,0.6875,0.666666667,0.383333333,Sowing,0.966666667,0,No,0.256080114,No,Maharashtra,DAP
+pulses,sandy,0.125,0.4,0.216666667,Maturity,0.285185185,0.222222222,No,0.055793991,No,Maharashtra,Urea
+ground nuts,red,0.225,0.216666667,0.2,Sowing,0.22962963,0.333333333,Yes,0.469241774,Yes,Tamil Nadu,DAP
+pulses,red,0.05,0.483333333,0.2,Maturity,0.003703704,0.722222222,No,0.261802575,Yes,Tamil Nadu,Urea
+cotton,loamy,0.4875,0.533333333,0.383333333,Vegetative,0.062962963,0.611111111,Yes,0.00286123,Yes,Uttar Pradesh,NPK 20-20-20
+barley,clayey,0.3875,0.266666667,0.383333333,Maturity,0.051851852,0.666666667,No,0.639484979,No,West Bengal,Compost
+cotton,red,0.65,0.633333333,0.283333333,Sowing,0.974074074,1,No,0.944206009,No,Gujarat,Urea
+oil seeds,clayey,0.5,0.483333333,0.05,Maturity,0.859259259,0.666666667,No,0.995708155,Yes,Karnataka,MOP
+millets,red,0.425,0.216666667,0.233333333,Flowering,0.714814815,0,No,0.161659514,Yes,West Bengal,NPK 20-20-20
+maize,sandy,0.5,0.95,0.266666667,Vegetative,0.592592593,0,Yes,0.602288984,No,Gujarat,FYM
+paddy,clayey,0.1875,0.433333333,0.45,Sowing,0.392592593,0.555555556,No,0.834048641,No,West Bengal,Compost
+ground nuts,red,0.2,0.016666667,0.25,Flowering,0.2,1,Yes,0.283261803,Yes,Andhra Pradesh,DAP
+wheat,black,0.65,0.583333333,0.316666667,Harvest,0.477777778,0.111111111,Yes,0.293276109,Yes,Karnataka,DAP
+wheat,loamy,0.5125,0.383333333,0.016666667,Harvest,0.611111111,0.388888889,Yes,0.103004292,Yes,Gujarat,MOP
+ground nuts,clayey,0.0375,0.016666667,0.216666667,Sowing,0.840740741,0.444444444,Yes,0.649499285,No,Tamil Nadu,Urea
+millets,loamy,0.625,0.2,0.283333333,Flowering,0.533333333,0.555555556,No,0.39341917,Yes,Gujarat,DAP
+pulses,loamy,0.325,0.216666667,0.466666667,Sowing,0.285185185,0.888888889,Yes,0.030042918,No,Gujarat,Compost
+cotton,red,0.35,0.7,0.883333333,Flowering,0.4,1,No,0.809728183,No,West Bengal,Urea
+pulses,clayey,0.15,0.116666667,0.383333333,Harvest,0.622222222,0.166666667,Yes,0.904148784,No,Uttar Pradesh,DAP
+maize,sandy,0.4625,0.566666667,0.416666667,Harvest,0.944444444,0.444444444,Yes,0.207439199,No,Uttar Pradesh,Urea
+oil seeds,black,0.15,0.316666667,0.3,Harvest,0.396296296,0.666666667,Yes,0.494992847,Yes,Uttar Pradesh,Ammonium Sulphate
+wheat,black,0.1625,0.466666667,0.116666667,Flowering,0.374074074,0.555555556,No,0.121602289,Yes,Madhya Pradesh,MOP
+oil seeds,loamy,0.3625,0.083333333,0.383333333,Vegetative,0.074074074,0.833333333,No,0.592274678,No,Karnataka,DAP
+paddy,clayey,0.1875,0.583333333,0.016666667,Flowering,0.462962963,0.277777778,No,0.284692418,No,Andhra Pradesh,MOP
+barley,clayey,0.6625,0.566666667,0.483333333,Maturity,0.566666667,0.888888889,No,0.140200286,No,Andhra Pradesh,Ammonium Sulphate

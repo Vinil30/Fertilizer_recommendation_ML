@@ -1,0 +1,12 @@
+app:
+  host: "0.0.0.0"
+  port: 5000
+  debug: false
+
+model:
+  path: "flask_app/models/xgboost_irrigation_model.pkl"
+
+encoders:
+  label_encoder: "flask_app/models/label_encoder.pkl"
+  onehot_encoder: "flask_app/models/onehot_encoder.pkl"
+  scaler: "flask_app/models/minmax_scaler.pkl"

@@ -1,0 +1,110 @@
+2025-03-22 00:39:37,549 - ERROR - Exception:              ^^^^^, Location: FileNotFoundError: [Errno 2] No such file or directory: 'ferilizer_detection.csv'
+2025-03-22 00:40:03,148 - ERROR - Exception:              ^^^^^, Location: FileNotFoundError: [Errno 2] No such file or directory: 'flask_app/models/ferilizer_detection.csv'
+2025-03-22 00:40:08,412 - ERROR - Exception:              ^^^^^, Location: FileNotFoundError: [Errno 2] No such file or directory: 'flask_app/models/ferilizer_detection.csv'
+2025-03-22 00:41:00,142 - ERROR - Exception:              ^^^^^, Location: OSError: [Errno 22] Invalid argument: 'notebooks\x0certilizer_detection.csv'
+2025-03-22 00:41:14,929 - ERROR - Exception:              ^^^^^, Location: FileNotFoundError: [Errno 2] No such file or directory: 'notebooks/fertilizer_detection.csv'
+2025-03-22 00:42:42,412 - INFO - Dataset loaded successfully.
+2025-03-22 00:42:42,431 - INFO - One-hot encoding applied.
+2025-03-22 00:42:42,626 - ERROR - Exception:     raise KeyError(key) from err, Location: KeyError: 'Irrigation Type'
+2025-03-22 15:28:06,674 - INFO - Dataset loaded successfully.
+2025-03-22 15:28:06,689 - INFO - One-hot encoding applied.
+2025-03-22 15:28:06,817 - ERROR - Exception:     raise KeyError(key) from err, Location: KeyError: 'Irrigation Type'
+2025-03-22 15:28:59,571 - INFO - Dataset loaded successfully.
+2025-03-22 15:28:59,577 - INFO - One-hot encoding applied.
+2025-03-22 15:28:59,578 - INFO - Target variable encoded.
+2025-03-22 15:28:59,579 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 15:29:03,671 - INFO - Dataset loaded successfully.
+2025-03-22 15:29:03,678 - INFO - One-hot encoding applied.
+2025-03-22 15:29:03,679 - INFO - Target variable encoded.
+2025-03-22 15:29:03,681 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 15:29:04,610 - INFO - Dataset loaded successfully.
+2025-03-22 15:29:04,617 - INFO - One-hot encoding applied.
+2025-03-22 15:29:04,618 - INFO - Target variable encoded.
+2025-03-22 15:29:04,619 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 15:30:36,785 - INFO - Dataset loaded successfully.
+2025-03-22 15:30:36,791 - INFO - One-hot encoding applied.
+2025-03-22 15:30:36,792 - INFO - Target variable encoded.
+2025-03-22 15:30:36,793 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 15:30:40,710 - INFO - Dataset loaded successfully.
+2025-03-22 15:30:40,719 - INFO - One-hot encoding applied.
+2025-03-22 15:30:40,720 - INFO - Target variable encoded.
+2025-03-22 15:30:40,721 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 15:31:13,138 - INFO - Dataset loaded successfully.
+2025-03-22 15:31:13,145 - INFO - One-hot encoding applied.
+2025-03-22 15:31:13,146 - ERROR - Exception:     raise InvalidIndexError(key), Location: pandas.errors.InvalidIndexError: (slice(None, None, None), -1)
+2025-03-22 19:16:44,114 - INFO - Dataset loaded successfully.
+2025-03-22 19:16:44,120 - INFO - One-hot encoding applied.
+2025-03-22 19:16:44,125 - ERROR - Exception:     raise InvalidIndexError(key), Location: pandas.errors.InvalidIndexError: (slice(None, None, None), -1)
+2025-03-22 19:18:16,970 - INFO - Dataset loaded successfully.
+2025-03-22 19:18:16,976 - INFO - One-hot encoding applied.
+2025-03-22 19:18:16,978 - INFO - Target variable encoded.
+2025-03-22 19:18:16,979 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 19:18:18,047 - INFO - Dataset loaded successfully.
+2025-03-22 19:18:18,053 - INFO - One-hot encoding applied.
+2025-03-22 19:18:18,054 - INFO - Target variable encoded.
+2025-03-22 19:18:18,055 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 19:18:20,406 - INFO - Dataset loaded successfully.
+2025-03-22 19:18:20,412 - INFO - One-hot encoding applied.
+2025-03-22 19:18:20,412 - INFO - Target variable encoded.
+2025-03-22 19:18:20,414 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 19:18:27,720 - INFO - Dataset loaded successfully.
+2025-03-22 19:18:27,730 - INFO - One-hot encoding applied.
+2025-03-22 19:18:27,732 - INFO - Target variable encoded.
+2025-03-22 19:18:27,734 - ERROR - Exception:     raise KeyError(f"{not_found} not in index"), Location: KeyError: "[''] not in index"
+2025-03-22 19:18:58,386 - INFO - Dataset loaded successfully.
+2025-03-22 19:18:58,395 - INFO - One-hot encoding applied.
+2025-03-22 19:18:58,396 - INFO - Target variable encoded.
+2025-03-22 19:18:58,403 - INFO - Dataset split into training and testing sets.
+2025-03-22 19:18:58,409 - INFO - Feature scaling applied.
+2025-03-22 19:18:58,409 - INFO - Starting XGBoost training.
+2025-03-22 19:19:01,346 - ERROR - Exception:     raise ValueError(, Location: ValueError: Classification metrics can't handle a mix of unknown and multiclass targets
+2025-03-22 19:20:50,771 - INFO - Dataset loaded successfully.
+2025-03-22 19:20:50,778 - INFO - One-hot encoding applied.
+2025-03-22 19:20:50,780 - INFO - Target variable encoded.
+2025-03-22 19:20:50,784 - INFO - Dataset split into training and testing sets.
+2025-03-22 19:20:50,791 - INFO - Feature scaling applied.
+2025-03-22 19:20:50,791 - INFO - Starting XGBoost training.
+2025-03-22 19:20:51,643 - INFO - XGBoost Accuracy: 0.33
+2025-03-22 19:20:51,645 - INFO - XGBoost confusion matrix computed.
+2025-03-22 19:22:30,513 - INFO - Dataset loaded successfully.
+2025-03-22 19:22:30,520 - INFO - One-hot encoding applied.
+2025-03-22 19:22:30,521 - INFO - Target variable encoded.
+2025-03-22 19:22:30,524 - INFO - Dataset split into training and testing sets.
+2025-03-22 19:22:30,529 - INFO - Feature scaling applied.
+2025-03-22 19:22:30,529 - INFO - Starting Random Forest training.
+2025-03-22 19:22:30,816 - INFO - Random Forest Accuracy: 0.33
+2025-03-22 19:22:30,817 - INFO - Random Forest confusion matrix computed.
+2025-03-22 19:23:22,514 - INFO - Dataset loaded successfully.
+2025-03-22 19:23:22,525 - INFO - One-hot encoding applied.
+2025-03-22 19:23:22,526 - INFO - Target variable encoded.
+2025-03-22 19:23:22,532 - INFO - Dataset split into training and testing sets.
+2025-03-22 19:23:22,542 - INFO - Feature scaling applied.
+2025-03-22 19:23:22,543 - INFO - Starting Random Forest training.
+2025-03-22 19:23:23,090 - INFO - Random Forest Accuracy: 0.33
+2025-03-22 19:23:23,092 - INFO - Random Forest confusion matrix computed.
+2025-03-22 19:24:01,892 - INFO - Dataset loaded successfully.
+2025-03-22 19:24:01,901 - INFO - One-hot encoding applied.
+2025-03-22 19:24:01,902 - INFO - Target variable encoded.
+2025-03-22 19:24:01,906 - INFO - Dataset split into training and testing sets.
+2025-03-22 19:24:01,911 - INFO - Feature scaling applied.
+2025-03-22 19:24:01,911 - INFO - Starting Logistic Regression training.
+2025-03-22 19:24:01,997 - INFO - Logistic Regression Accuracy: 0.32
+2025-03-22 19:24:01,998 - INFO - Logistic Regression confusion matrix computed.
+2025-03-22 19:24:07,843 - INFO - Dataset loaded successfully.
+2025-03-22 19:24:07,850 - INFO - One-hot encoding applied.
+2025-03-22 19:24:07,851 - INFO - Target variable encoded.
+2025-03-22 19:24:07,854 - INFO - Dataset split into training and testing sets.
+2025-03-22 19:24:07,862 - INFO - Feature scaling applied.
+2025-03-22 19:24:07,862 - INFO - Starting Random Forest training.
+2025-03-22 19:24:08,152 - INFO - Random Forest Accuracy: 0.33
+2025-03-22 19:24:08,153 - INFO - Random Forest confusion matrix computed.
+2025-03-22 19:28:12,772 - INFO - Random Forest model and preprocessing objects saved successfully in the models folder.
+2025-03-26 21:57:03,853 - INFO - Dataset loaded successfully.
+2025-03-26 21:57:03,871 - INFO - One-hot encoding applied.
+2025-03-26 21:57:03,872 - INFO - Target variable encoded.
+2025-03-26 21:57:03,881 - INFO - Dataset split into training and testing sets.
+2025-03-26 21:57:03,888 - INFO - Feature scaling applied.
+2025-03-26 21:57:03,888 - INFO - Starting Random Forest training.
+2025-03-26 21:57:04,195 - INFO - Random Forest Accuracy: 0.33
+2025-03-26 21:57:04,197 - INFO - Random Forest confusion matrix computed.
+2025-03-26 22:00:38,316 - INFO - Random Forest model and preprocessing objects saved successfully in the models folder.
