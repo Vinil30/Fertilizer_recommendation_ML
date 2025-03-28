@@ -1,1 +1,1 @@
-web: waitress-serve --call 'flask_app.app:create_app'
+waitress-serve --listen=0.0.0.0:5000 run:app
