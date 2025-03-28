@@ -5,7 +5,7 @@ import numpy as np
 import os
 base_dir = os.path.dirname(os.path.abspath(__file__))
 # Load ML Model and Preprocessing Tools
-model_path = os.path.join(base_dir,"models","xgboost_irrigation_model.pkl")
+model_path = os.path.join(base_dir,"models","random_forest_fertilizer_model.pkl")
 scaler_path = os.path.join(base_dir,"models","minmax_scaler.pkl")
 encoder_path = os.path.join(base_dir,"models","onehot_encoder.pkl")
 label_encoder_path = os.path.join(base_dir,"models","label_encoder.pkl")
@@ -19,13 +19,13 @@ with open(encoder_path, "rb") as f:
 with open(label_encoder_path, "rb") as f:
     label_encoder = pickle.load(f)
 
-def predict_irrigation(input_df):
+def predictFertilizer(input_df):
     try:
         logging.info(f"Received input for prediction:\n{input_df}")
 
         # Define your features
-        numerical_features = ["Rainfall (mm)", "Soil Moisture (%)", "Temperature ", "Evaporation Rate (mm/day)"]
-        categorical_features = ["Crop Type", "Water Availability", "Soil Type"]
+        numerical_features = ["Nitrogen (N)", "Phosphorus (P)", "Potassium (K)", "Rainfall (mm)", "Temperature (°C)", "Past Yield (tons/ha)"]
+        categorical_features = ["Crop", "Soil Type", "Crop Growth Stage", "Irrigation Availability", "Pest/Disease", "Region"]
 
         # One-hot encode categorical features
         input_encoded = encoder.transform(input_df[categorical_features])

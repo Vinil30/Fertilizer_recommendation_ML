@@ -6,3 +6,4 @@ xgboost
 waitress
 pyyaml
 gunicorn  
+flask_cors

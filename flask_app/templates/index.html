@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Irrigation Prediction</title>
+    <title>Fertilizer Detection</title>
     <style>
+    
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -13,7 +14,6 @@
             display: grid;
             grid-template-rows: auto 1fr;
             height: 10vh;
-            overflow: hidden;
         }
         header {
             display: flex;
@@ -100,12 +100,19 @@
                 width: 90%;
             }
         }
+        body {
+            height: auto;
+            min-height: 100vh;
+            overflow-x: hidden; /* Prevents horizontal scrolling */
+            overflow-y: auto; /* Allows vertical scrolling */
+        }
+        
     </style>
 </head>
 <body>
-    <video autoplay muted loop class="background-video">
+    <!-- <video autoplay muted loop class="background-video">
         <source src="irrigation.mp4" type="video/mp4">
-    </video>
+    </video> -->
     <header>
         <div class="logo">🌱 AgriPredict</div>
         <div class="header-buttons">
@@ -114,7 +121,8 @@
     </header>
     <div class="container">
         <form id="predictionForm">
-            <h2>Irrigation Type Prediction</h2>
+            <h2>Fertilizer Detection</h2>
+
             <label for="crop">Crop Type:</label>
             <select id="crop">
                 <option value="novalue">Select Crop</option>
@@ -131,16 +139,19 @@
 <option value="ground_nuts">Ground Nuts</option>
 
             </select>
-            <label for="water">Water Availability:</label>
-            <select id="water">
-                <option value="novalue">Select Water Availability</option>
-                <option value="high">High</option>
-<option value="medium">Medium</option>
-<option value="low">Low</option>
-
-            </select>
+        
             <label for="rainfall">Rainfall (mm):</label>
             <input type="number" id="rainfall" placeholder="Rainfall in mm" required>
+
+            <label for="Nitrogen (N)">Nitrogen (N):</label>
+            <input type="number" id="Nitrogen" placeholder="Nitrogen (N)" required>
+
+            <label for="Phosphorus (P)">Phosphorus (P):</label>
+            <input type="number" id="Phosphorus" placeholder="Phosphorus (P)" required>
+
+            <label for="Potassium (K)">Potassium (K):</label>
+            <input type="number" id="Potassium" placeholder="Potassium (K)" required>
+
             <label for="soil">Soil Type:</label>
             <select id="soil">
                 <option value="novalue">Select Soil Type</option>
@@ -151,43 +162,90 @@
                 <option value="clayey">Clayey</option>
                 
             </select>
+
+            <label for="Crop_growth_stage">Crop Growth Stage:</label>
+            <select id="Crop_growth_stage">
+                <option value="novalue">Select Crop Growth Stage</option>
+                <option value="Maturity">Maturity</option>
+                <option value="Vegetative">Vegetative</option>
+                <option value="Flowering">Flowering</option>
+                <option value="Sowing">Sowing</option>
+                <option value="Harvest">Harvest</option>
+                
+            </select>
             <label for="temperature">Temperature (°C):</label>
             <input type="number" id="temperature" placeholder="Temperature in celsius" required>
-            <label for="evaporation">Evaporation:</label>
-            <input type="number" id="evaporation" placeholder="Evaporation in mm" required>
-            <button type="button" onclick="predictIrrigation()">Predict</button>
+
+            <label for="Irrigation_Availability">Irrigation Availability:</label>
+            <select id="Irrigation_Availability">
+                <option value="novalue">Select Irrigation Availability</option>
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select>
+
+            <label for="Past Yield (tons/ha)">Past Yield (tons/ha):</label>
+            <input type="number" id="Past_Yield" placeholder="Past Yield (tons/ha)" required>
+
+            <label for="Pest/Disease">Pest/Disease:</label>
+            <select id="Pest_Disease">
+                <option value="novalue">Select Pest/Disease</option>
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select>
+
+            <label for="Region">Region:</label>
+            <select id="Region">
+                <option value="novalue">Select Region</option>
+                <option value="Andhra Pradesh">Andhra Pradesh</option>
+                <option value="Madhya Pradesh">Madhya Pradesh</option>
+                <option value="Punjab">Punjab</option>
+                <option value="Maharashtra">Maharashtra</option>
+                <option value="Karnataka">Karnataka</option>
+                <option value="West Bengal">West Bengal</option>
+                <option value="Uttar Pradesh">Uttar Pradesh</option>
+                <option value="Rajasthan">Rajasthan</option>
+                <option value="Gujarat">Gujarat</option>
+                <option value="Tamil Nadu">Tamil Nadu</option>
+                
+            </select>
+            <button type="button" onclick="predictFertilizer()">Predict</button>
         </form>
     </div>
     <script>
         function goToDashboard() {
             window.location.href = "https://your-dashboard-url.com";
         }
-        function predictIrrigation() {
+        function predictFertilizer() {
             alert("Prediction processing...");
         }
-        async function predictIrrigation() {
+        async function predictFertilizer() {
         // Collect input values
-        const crop = document.getElementById("crop").value;
-        const water = document.getElementById("water").value;
-        const rainfall = document.getElementById("rainfall").value;
-        const soil = document.getElementById("soil").value;
-        const temperature = document.getElementById("temperature").value;
-        const evaporation = document.getElementById("evaporation").value;
-
+        const Crop = document.getElementById("crop").value;
+        const Soil_Type = document.getElementById("soil").value;
+        const Nitrogen = document.getElementById("Nitrogen").value;
+        const Phosphorus = document.getElementById("Phosphorus").value;
+        const Potassium = document.getElementById("Potassium").value;
+        const Crop_Growth_Stage = document.getElementById("Crop_growth_stage").value;
+        const Rainfall  = document.getElementById("rainfall").value;
+        const Temperature  = document.getElementById("temperature").value;
+        const Irrigation_Availability = document.getElementById("Irrigation_Availability").value;
+        const Past_Yield = document.getElementById("Past_Yield").value;
+        const Pest_Disease = document.getElementById("Pest_Disease").value;
+        const Region = document.getElementById("Region").value;
         // Check if all values are selected/entered
-        if (crop === "novalue" || water === "novalue" || soil === "novalue" || !rainfall || !temperature || !evaporation) {
+        if (crop === "novalue" || Crop_Growth_Stage === "novalue" || Soil_Type === "novalue" || Pest_Disease === "novalue" || Region === "novalue" ||Irrigation_Availability==="novalue" || !Rainfall || !Temperature || !Nitrogen || !Phosphorus || !Potassium || !Past_Yield) {
             alert("Please fill in all fields.");
             return;
         }
 
         // Prepare request payload
         const requestData = {
-            crop, water, rainfall, soil, temperature, evaporation
+            crop, Crop_Growth_Stage, Rainfall, Soil_Type, Temperature,Pest_Disease,Region,Irrigation_Availability,Nitrogen,Phosphorus,Potassium,Past_Yield
         };
 
         try {
             // Send request to backend ML route
-            const response = await fetch("/predict-irrigation", {
+            const response = await fetch("/predict-fertilizer", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(requestData)
@@ -206,32 +264,116 @@
         }
     }
 
-    function displayPrediction(predictedIrrigation) {
+    function displayPrediction(predictedFertilizer) {
         const form = document.getElementById("predictionForm");
-        
-        // Define details for each irrigation type
-        const irrigationDetails = {
-            "Furrow Irrigation": "Furrow irrigation is a method where water flows through small, evenly spaced channels, or furrows, that run parallel to the crop rows. This system allows water to infiltrate the soil gradually, ensuring an even distribution of moisture to plant roots. It is widely used for row crops such as corn, cotton, and sugarcane. One of the advantages of furrow irrigation is its efficiency in controlling water application, reducing wastage. However, improper design or poor management can lead to uneven water distribution, soil erosion, and waterlogging in some areas.",
-            "Drip Irrigation": "Drip irrigation is a highly efficient irrigation method that delivers water directly to the roots of plants through a network of tubing, valves, and emitters. This system minimizes water wastage by preventing runoff and evaporation, making it ideal for areas with limited water supply. Drip irrigation is commonly used in horticulture, vineyards, and greenhouses, as it provides precise moisture levels needed for plant growth. While it saves water and reduces weed growth, the system requires regular maintenance to prevent clogging of the emitters due to sediment buildup.",
-            "Border Irrigation": "Border irrigation is a surface irrigation technique where water is applied to rectangular fields separated by parallel ridges or borders. The water flows between the ridges, gradually moving down the slope to cover the entire field. This method is commonly used for crops like wheat, rice, and pasture lands. It is easy to implement and cost-effective but requires proper land leveling for uniform distribution. Poorly designed border irrigation systems can lead to excessive water pooling, soil erosion, or inadequate moisture penetration in some areas.",
-            "Basin Irrigation": "Basin irrigation is a traditional irrigation method where fields are divided into large, flat basins surrounded by embankments to retain water. Water is introduced into the basin and allowed to infiltrate the soil gradually, ensuring deep and uniform moisture distribution. This technique is widely used for rice cultivation, fruit orchards, and other water-intensive crops. Basin irrigation helps conserve water and reduces soil erosion. However, it can lead to water stagnation, increasing the risk of plant diseases and salinity buildup in poorly drained soils.",
-            "Surface Irrigation": "Surface irrigation is one of the oldest and most widely used irrigation methods, relying on gravity to distribute water over agricultural fields. This technique includes flood, furrow, and border irrigation systems, depending on the land slope and crop type. Surface irrigation is simple, cost-effective, and does not require advanced equipment. However, it has lower water efficiency compared to other methods due to evaporation, runoff, and potential over-irrigation. Proper land leveling and water management are essential to maximize its effectiveness.",
-            "Sprinkler Irrigation": "Sprinkler irrigation mimics natural rainfall by spraying water over crops using a network of pipes, pumps, and nozzles. This system provides even water distribution, making it suitable for various crops, including vegetables, grains, and fruits. Sprinkler irrigation is particularly beneficial in areas with uneven terrain where surface irrigation is impractical. It also helps in cooling crops and washing off dust and pests. However, it can be expensive to install and operate, and strong winds can affect water distribution efficiency..",
-            "Subsurface Irrigation": "Subsurface irrigation delivers water directly to the root zone by placing pipes or tubes below the soil surface. This method minimizes water loss due to evaporation and reduces weed growth by keeping the soil surface dry. It is commonly used for high-value crops such as vegetables, flowers, and turfgrass. Subsurface irrigation provides consistent moisture levels, promoting better plant health. However, the initial installation cost is high, and the system requires careful maintenance to prevent clogging and root intrusion into the pipes.",
-            "Manual Irrigation": "Manual irrigation is the simplest form of irrigation, where farmers or gardeners manually water plants using buckets, hoses, or watering cans. It is commonly used for small-scale farming, home gardens, and nurseries. This method provides direct control over the amount of water each plant receives, reducing wastage. However, manual irrigation is labor-intensive and time-consuming, making it impractical for large agricultural fields. It is best suited for areas with limited access to modern irrigation infrastructure."
-        };
-
-        // Generate new content
         form.innerHTML = `
-            <h2>Prediction Result: ${predictedIrrigation}</h2>
-            <p>${irrigationDetails[predictedIrrigation] || "No details available for this irrigation type."}</p>
-            <button onclick="reloadForm()">Try Again</button>
+            <h2>Prediction Result: ${predictedFertilizer}</h2>
+           <h2>The optimal and suggested fertilizer to be used is: <span style="color: green,font-size: 40px;">  ${predictedFertilizer}</span></h2>
+                <button onclick="reloadForm()" style="margin-top: 20px;">Try Again</button>
         `;
     }
 
+   
+    // Reload the form to allow another prediction
     function reloadForm() {
-        location.reload(); // Reload the page to reset the form
+        const formContainer = document.getElementById("predictionForm");
+
+        formContainer.innerHTML = `
+            <form id="predictionForm">
+            <h2>Fertilizer Detection</h2>
+
+            <label for="crop">Crop Type:</label>
+            <select id="crop">
+                <option value="novalue">Select Crop</option>
+                <option value="maize">Maize</option>
+<option value="sugarcane">Sugarcane</option>
+<option value="cotton">Cotton</option>
+<option value="tobacco">Tobacco</option>
+<option value="paddy">Paddy</option>
+<option value="barley">Barley</option>
+<option value="wheat">Wheat</option>
+<option value="millets">Millets</option>
+<option value="oil_seeds">Oil Seeds</option>
+<option value="pulses">Pulses</option>
+<option value="ground_nuts">Ground Nuts</option>
+
+            </select>
+        
+            <label for="rainfall">Rainfall (mm):</label>
+            <input type="number" id="rainfall" placeholder="Rainfall in mm" required>
+
+            <label for="Nitrogen (N)">Nitrogen (N):</label>
+            <input type="number" id="Nitrogen" placeholder="Nitrogen (N)" required>
+
+            <label for="Phosphorus (P)">Phosphorus (P):</label>
+            <input type="number" id="Phosphorus" placeholder="Phosphorus (P)" required>
+
+            <label for="Potassium (K)">Potassium (K):</label>
+            <input type="number" id="Potassium" placeholder="Potassium (K)" required>
+
+            <label for="soil">Soil Type:</label>
+            <select id="soil">
+                <option value="novalue">Select Soil Type</option>
+                <option value="black">Black</option>
+                <option value="red">Red</option>
+                <option value="sandy">Sandy</option>
+                <option value="loamy">Loamy</option>
+                <option value="clayey">Clayey</option>
+                
+            </select>
+
+            <label for="Crop_growth_stage">Crop Growth Stage:</label>
+            <select id="Crop_growth_stage">
+                <option value="novalue">Select Crop Growth Stage</option>
+                <option value="Maturity">Maturity</option>
+                <option value="Vegetative">Vegetative</option>
+                <option value="Flowering">Flowering</option>
+                <option value="Sowing">Sowing</option>
+                <option value="Harvest">Harvest</option>
+                
+            </select>
+            <label for="temperature">Temperature (°C):</label>
+            <input type="number" id="temperature" placeholder="Temperature in celsius" required>
+
+            <label for="Irrigation_Availability">Irrigation Availability:</label>
+            <select id="Irrigation_Availability">
+                <option value="novalue">Select Irrigation Availability</option>
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select>
+
+            <label for="Past Yield (tons/ha)">Past Yield (tons/ha):</label>
+            <input type="number" id="Past_Yield" placeholder="Past Yield (tons/ha)" required>
+
+            <label for="Pest/Disease">Pest/Disease:</label>
+            <select id="Pest_Disease">
+                <option value="novalue">Select Pest/Disease</option>
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select>
+
+            <label for="Region">Region:</label>
+            <select id="Region">
+                <option value="novalue">Select Region</option>
+                <option value="Andhra Pradesh">Andhra Pradesh</option>
+                <option value="Madhya Pradesh">Madhya Pradesh</option>
+                <option value="Punjab">Punjab</option>
+                <option value="Maharashtra">Maharashtra</option>
+                <option value="Karnataka">Karnataka</option>
+                <option value="West Bengal">West Bengal</option>
+                <option value="Uttar Pradesh">Uttar Pradesh</option>
+                <option value="Rajasthan">Rajasthan</option>
+                <option value="Gujarat">Gujarat</option>
+                <option value="Tamil Nadu">Tamil Nadu</option>
+                
+            </select>
+            <button type="button" onclick="predictFertilizer()">Predict</button>
+        </form>
+        `;
     }
+
+    // Optional: initialize form when page loads
+    document.addEventListener("DOMContentLoaded", reloadForm);
     </script>
 </body>
 </html>
